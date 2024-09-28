@@ -1,0 +1,4 @@
+MATRICOLA
+Numero che si associa ad uno studente iscritto e che lo identifica.
+
+Per maggiori informazioni vai su https://www.unipa.it/target/futuristudenti/iscriviti/come-immatricolarsi/

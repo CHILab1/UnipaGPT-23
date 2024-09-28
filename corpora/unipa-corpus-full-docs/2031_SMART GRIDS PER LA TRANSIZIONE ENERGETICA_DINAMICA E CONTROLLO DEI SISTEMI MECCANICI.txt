@@ -1,0 +1,2 @@
+Il corso di DINAMICA E CONTROLLO DEI SISTEMI MECCANICI del corso di Laurea magistrale in INGEGNERIA ELETTRICA del curriculum SMART GRIDS PER LA TRANSIZIONE ENERGETICA, ha i seguenti obiettivi formativi: 
+Obiettivo del corso e' quello di fornire allo studente una metodologia che gli  consenta di identificare e ridurre a schema una qualsiasi macchina o  meccanismo reale al fine di effettuarne lo studio dinamico e vibrazionale.

@@ -1,0 +1,13 @@
+APP MyUniPa
+La APP MyUniPa si rivolge principalmente a studenti iscritti o che si intendono iscrivere all'Università degli Studi di Palermo.
+Principali servizi e funzionalità
+Guida ai Corsi di Studio
+Ricerca di aule e laboratori
+Libretto elettronico
+UniPa Card per la rilevazione delle presenze e le prenotazioni
+Accesso ai bandi per i test di accesso ai Corsi di Studio a numero programmato
+Notifiche e messaggi
+Agenda con l'iscrizione alle lezioni
+Scarica la APP per Android su Google Play https://play.google.com/store/apps/details?id=it.aranciaict.unipaintasca e per iPhone su App Store https://itunes.apple.com/it/app/unipa-in-tasca/id1021969558?l=it&ls=1&mt=8
+
+Per maggiori informazioni vai su https://www.unipa.it/target/futuristudenti/servizi-agli-studenti/app-myunipa/

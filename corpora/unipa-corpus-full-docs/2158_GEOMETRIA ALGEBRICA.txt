@@ -1,0 +1,2 @@
+Il corso di GEOMETRIA ALGEBRICA del corso di Laurea magistrale in MATEMATICA , ha i seguenti obiettivi formativi: 
+Presentare i concetti fondamentali elementari della teoria della risoluzione di  sistemi di equazioni polinomiali. La Geometria Algebrica studia queste soluzioni  da un punto di vista globale, mediante la teoria delle varieta' algebriche. Si  definiranno le varieta' algebriche e si trattera' di alcune loro importanti proprieta.

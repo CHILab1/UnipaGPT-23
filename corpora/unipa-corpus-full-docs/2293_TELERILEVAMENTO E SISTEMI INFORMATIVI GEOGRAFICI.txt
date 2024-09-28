@@ -1,0 +1,2 @@
+Il corso di TELERILEVAMENTO E SISTEMI INFORMATIVI GEOGRAFICI del corso di Laurea magistrale in AGRICOLTURA DI PRECISIONE , ha i seguenti obiettivi formativi: 
+L’obiettivo dell’insegnamento è quello di fornire allo studente sia le modalità di  utilizzo e di trattamento dei dati da satellite, orientate alle applicazioni finali, sia  le conoscenze e le competenze necessarie per l’utilizzo dei GPS e della  fotogrammetria terrestre ed aerea.

@@ -1,0 +1,2 @@
+Il corso di MATEMATICA FINANZIARIA del corso di Laurea in ECONOMIA E FINANZA del curriculum ECONOMICO-APPLICATO, ha i seguenti obiettivi formativi: 
+Alla fine del corso lo studente sarà in grado di: 1) analizzare un problema finanziario e rappresentare le sue componenti tramite  un modello matematico; 2) determinare il valore di strumenti finanziari che dipendono dai tassi  d'interesse; 3) implementare strategie di protezione dal rischio da tasso d'interesse; 4) Uso di fogli elettronici per la valutazione di operazioni finanziarie.

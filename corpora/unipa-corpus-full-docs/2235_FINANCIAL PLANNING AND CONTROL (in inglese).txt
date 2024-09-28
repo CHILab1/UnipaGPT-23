@@ -1,0 +1,2 @@
+Il corso di FINANCIAL PLANNING AND CONTROL (in inglese) del corso di Laurea magistrale in STATISTICA E DATA SCIENCE , ha i seguenti obiettivi formativi: 
+L’obiettivo del modulo è quello di fornire agli studenti nozioni in tema di design  ed implementazione di sistemi di pianificazione, misurazione e controllo della  performance, oltre ad approfondire talune tematiche emergenti di rilevante  importanza teorica e pratica collegate agli argomenti trattati.

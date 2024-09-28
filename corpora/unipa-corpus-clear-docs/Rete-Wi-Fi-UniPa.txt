@@ -1,0 +1,50 @@
+Connettività Wireless UNIPA - Circuito Eduroam
+Il servizio di connettività wireless attivato dal 2006 grazie a finanziamenti e progetti dedicati (vedi ad esempio WiFi4UNIPA cofinanziato dal Dipartimento per la Digitalizzazione della Pubblica Amministrazione e l'Innovazione Tecnologica della Presidenza del Conisglio dei Ministri) fornisce agli studenti e al personale docente e tecnico amministrativo dell'Università degli Studi di Palermo la connettività wireless all'infrastruttura di rete universitaria consentendo loro la fruizione dei servizi e delle risorse digitali offerti dall'Ateneo direttamente dai propri dispositivi portatili e palmari. Il servizio è fruibile grazie a una rete di 450 AP (Access Point) e un sistema di VLAN (Virtual LAN) che abbraccia oltre 120 switch e 6 server (RADIUS, MYSQL e LDAP).
+ 
+I destinatari
+Gli studenti
+Possono usufruire del servizio tutti gli studenti dell’Ateneo che possiedono una carriera attiva. Consulta la guida per scoprire come attivare il servizio.
+Il personale
+Può usufruire del servizio tutto il personale di Ateneo che possiede una carriera attiva.
+I visitatori
+L'Università degli Studi di Palermo estende il servizio WiFi4UNIPA anche ai visitatori dell’Ateneo che abbiano ricevuto apposita autorizzazione con validità temporale limitata. Compila il modulo per richiedere l'attivazione.
+Altro
+L'Università degli Studi di Palermo da agosto 2013 fa parte del circuito internazionale Eduroam e consente a tutti gli utenti interni ed esterni ad Unipa, che fanno parte del circuito, la possibilità di accedere alla rete WiFi con le proprie credenziali di accesso. Ogni informazione su Eduroam a partire dal link http://www.servizi.garr.it/index.php/it/eduroam
+ 
+In occasione di convegni, meeting, manifestazioni, inviti o altro è possibile richiedere l'attivazione di utenze temporanee all'indirizzo email wifi-support@unipa.it.
+ 
+Come riconosco la rete wireless d'Ateneo?
+La rete wireless dell'Universita' di Palermo, gestita dal S.I.A. – Sistema Informativo d’Ateneo, si chiama wifi-unipa-wpa. Per i sistemi con scheda wireless piu' recente (utilizzanti le frequenze cosidette 'A' - 5 GHz), e' disponibile anche la rete wifi-unipa-wpa-a. In pratica, se visualizzate anche la rete wifi-unipa-wpa-a, potete ripetere la configurazione anche per questa rete, altrimenti dovrete impostare la sola wifi-unipa-wpa.
+
+Qual e' la copertura del servizio wifi?
+La rete wireless e' presente all'interno e, ove possibile, nelle adiacenze delle Facolta' e dei Dipartimenti dislocati in viale delle Scienze. E' presente inoltre nei locali di Scienze Politiche, Giurisprudenza e Design di via Maqueda, presso il Policlinico Universitario, il Dipartimento di Fisica in via Archirafi, nel polo didattico di Marsala, di Trapani e di Caltanissetta ed infine presso il Rettorato in piazza Marina.
+Sono uno studente, cosa devo fare per ottenere un account valido per la navigazione wireless?
+Tutti gli studenti dell'Università degli Studi di Palermo hanno diritto ad un account wireless. Esegui l'accesso al portale studenti ( http://studenti.unipa.it ) con il tuo codice fiscale e password. Tra i dati personali potrai vedere il tuo NOME UTENTE VALIDO PER LA WIFI (del tipo nome.cognome1234@studenti.unipa.it).
+
+Ho il nome utente attivo e la password. Dove li devo inserire?
+Devi configurare il tuo pc seguendo le guide illustrate all’indirizzo www.unipa.it/wifi. L'autenticazione NON PUO' MAI AVVENIRE se prima non hai seguito la guida alla configurazione. Fare riferimento sempre al suddetto indirizzo per ottenere l'ultima versione aggiornata delle guide.
+Ho terminato il mio corso di studi ed ora frequento un MASTER, iscritto ad uno o più corsi singoli... Devo iscrivermi al portale studenti?
+No, potete compilare il modulo per la richiesta di un account temporaneo. Tale modulo deve essere firmato dal responsabile della struttura alla quale si appartiene e protocollato. Fatto ciò si deve inviare via fax al numero 091/23860704 o all'indirizzo e-mail wifi-support@unipa.it ed attendere all’email indicata nel modulo l’invio di un username e password per il collegamento. Verra' creato un account personale per usufruire della rete wireless. Ricordatevi di allegare un documento di riconoscimento ed un documento che attesti il vostro status.
+Ho un apparato (telefono, smartphone, ecc.) con scheda di rete wifi: posso configurarlo per navigare all'Universita'?
+Solamente alcuni dispositivi supportano la connessione dell’Università. Per i più comuni sono state già create delle guide per la configurazione che è possibile trovare all’indirizzo www.unipa.it/wifi. Data la diversità dei dispositivi e le diverse versioni di Firmware il SIA non puo' fornire assistenza al riguardo.
+Il mio apparato utilizza Windows Mobile 5 (o versioni successive): non riesco a configurarlo...
+Ci risulta un problema in WM5 e successivi che inibisce la trasmissione dei dati di autenticazione. Al momento sembrerebbe che la problematica possa essere risolta solo con una modifica del registro di sistema. Riteniamo che tale modifica non sia alla portata dell'utente medio, nonchè - se qualcosa dovesse andare male - potrebbero crearsi dei problemi di cui non possiamo prenderci la responsabilità. Se lo ritenete opportuno potete trovare la procedura per la suddetta modifica su diversi forum. Resta fermo che non possiamo fornire supporto al riguardo.
+
+Cosa posso fare una volta connesso?
+E' possibile visualizzare le norme di utilizzo della rete wireless d'Ateneo (Acceptable User Policy). In generale e' consentito l'accesso ai servizi di rete universitari (es. Servizio Bibliotecario) e la normale navigazione web. La navigazione viene filtrata da un servizio di content filtering automatizzato, basato su blacklist e frasi pesate. E' attivo un registro dei collegamenti (log). Il SIA adotta misure tecniche ed organizzative a garanzia della riservatezza di tale registro; il registro dei collegamenti potra' essere esibito solo all'autorita' giudiziaria, dietro esplicita richiesta.
+Non riesco ad autenticarmi con il mio account, cosa sto sbagliando?
+Le cause possono essere molteplici. In linea di massima consigliamo di:  1) controllare scrupolosamente le istruzioni relative al sistema operativo installato sulla propria macchina (le istruzioni si trovano su http://www.unipa.it/wifi), selezionando o deselezionando come da guida TUTTE le caselle di impostazione;  2) assicurarsi di digitare correttamente il proprio username@studenti.unipa.it e la propria password (quest'ultima e' LA STESSA utilizzata per l'ingresso al portale studenti e va scritta rispettando eventuali lettere maiuscole). Se cambi la password dal portale, o ne generi una nuova cliccando su "Password dimenticata", devi ovviamente utilizzare la nuova password anche per accedere alla wifi; 3) assicurarsi che il proprio account universitario non sia cessato. Se hai terminato o interrotto il tuo corso di studi, il tuo account viene disabilitato e non sara' piu' possibile autenticarsi alla wifi;  4) controllare che ci sia copertura di segnale (rete wifi-unipa-wpa e/o wifi-unipa-wpa-a).5) controllare la correttezza dei dati effettuando il login al seguente sito, https://cas.unipa.it/sso/login. se non si riesce ad effettuare il login scrivere una mail ad autenticazione-support@unipa.it con i propri dati per risolvere il problema
+
+"Impossibile trovare un certificato per wifi-unipa-wpa...", che fare?
+Ricontrolla la configurazione come da guida. Tale messaggio viene visualizzato quando la casella di controllo "Convalida certificato server" nelle impostazioni dei sistemi Microsoft Windows XP e Vista rimane erroneamente selezionata. Per l'autenticazione con tali sistemi operativi non viene richiesto alcun certificato; questa impostazione pregiudica il proseguimento del ciclo di autenticazione. Il certificato è necessario soltanto per la connessione con telefonini.
+Ho Windows XP/Vista/7 e pur autenticandomi non riesco a navigare ("Connettivita' limitata o assente"), cosa devo fare?
+Potrebbe trattarsi di un problema relativo a scarso segnale, o errata impostazione dell'indirizzo IP (deve essere dinamico - vedi sopra), oppure ancora potrebbe essere il risultato di logiche di sicurezza troppo restrittive (es. Norton o Panda Internet Security non configurati correttamente). Prova a disabilitare temporaneamente tali software.
+
+Risulto connesso ma non riesco a navigare, cosa devo fare?
+Molto probabilmente il tuo pc e' configurato per utilizzare un indirizzo IP statico; per ottenere un indirizzo valido per la navigazione il tuo sistema deve accettare l'assegnazione di un indirizzo IP dinamico.
+Nonostante abbia configurato la connessione seguendo le istruzioni non riesco ad accedere, perche'?
+Dando per scontato che avete ricontrollato piu' volte la correttezza della configurazione, come da guida su http://www.unipa.it/wifi/ , potrebbe essere necessario aggiornare i driver della scheda wireless del proprio computer all'ultima release messa a disposizione dal produttore della scheda (notoriamente cio' risolve le problematiche di connettivita' con schede wireless quali le Intel della serie 2200BG e 4965ABGN e Atheros AR5007EG, specialmente sui sistemi Vista).
+
+Le ho provate tutte.. non riesco proprio a connettermi!!
+Non disperare! Puoi contattarci all’indirizzo email wifi-support@unipa.it e nel caso non si riuscisse a risolvere il problema sarà fissato un appuntamento presso il SIA – Sistema Informativo d’Ateneo, Viale delle Scienze, Edificio 11 (accanto Lettere e Filosofia), dove effettueremo noi stessi la configurazione. Ricordati di venire munito di NOME UTENTE e PASSWORD.
+Per maggiori informazioni vai su https://www.unipa.it/amministrazione/areasistemiinformativieportalediateneo/servizi-old/wireless/

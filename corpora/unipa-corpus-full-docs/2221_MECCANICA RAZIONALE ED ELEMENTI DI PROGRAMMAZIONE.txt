@@ -1,0 +1,2 @@
+Il corso di MECCANICA RAZIONALE ED ELEMENTI DI PROGRAMMAZIONE del corso di Laurea in INGEGNERIA CIVILE , ha i seguenti obiettivi formativi: 
+Obiettivo del corso e' quello di fare acquisire allo studente i principi fondamentali  della meccanica di un sistema materiale, dell'analisi dei vettori applicati, e di  simulare in silico alcuni semplici sistemi dinamici o meccanici.

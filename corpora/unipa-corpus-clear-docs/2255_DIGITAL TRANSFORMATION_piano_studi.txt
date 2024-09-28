@@ -1,0 +1,63 @@
+Anno Accademico 2023/2024
+Laurea magistrale in MANAGEMENT ENGINEERING
+Curriculum: DIGITAL TRANSFORMATION
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=2026
+---------
+Classe di Laurea magistrale in Ingegneria gestionale (LM-31)
+Durata 2 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Ingegneria
+Doppio titolo con Instituto Universitario de Lisboa (ISCTE-IUL), Lisbona (PORTUGAL)Vilnius Gediminas Technical University, Vilnius (LITHUANIA)
+Codice corso 2255
+---------
+Insegnamenti primo anno \ in comune con gli altri curricula\profili
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+17051	CORPORATE FINANCE (in inglese)	LO NIGRO	9	1° semestre	ING-IND/35
+19022	INNOVATION MANAGEMENT (in inglese)	LA COMMARE	6	1° semestre	ING-IND/16
+21678	BUSINESS PROCESS MANAGEMENT (in inglese)	BRUCCOLERI	9	1° semestre	ING-IND/35
+04864	MARKETING (in inglese)	ROMA	6	2° semestre	ING-IND/35
+14368	SUPPLY CHAIN MANAGEMENT (in inglese)	AIELLO	9	2° semestre	ING-IND/17
+22201	ADVANCED STATISTICS FOR BUSINESS C.I. (in inglese)	LOMBARDO	6	2° semestre	
+	MULTIVARIATE ANALYSIS: APPLICATIONS (in inglese)	MARCON	3		SECS-S/02
+	MULTIVARIATE ANALYSIS: THEORY (in inglese)	LOMBARDO	3		SECS-S/02
+22217	PROJECT MANAGEMENT (in inglese)	CERTA	6	2° semestre	ING-IND/17
+	Attiv. form. a scelta dello studente		9		
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+22199	INDUSTRIAL ORGANIZATION AND STRATEGY (in inglese)	PERRONE	9	1° semestre	ING-IND/35
+22248	DIGITAL TRANSFORMATION C.I. (in inglese)	ROMA	18	Annuale	
+	SUPPLY CHAIN MANAGEMENT 4.0 (in inglese)	AIELLO	6		ING-IND/17
+	SMART FACTORY (in inglese)	LA COMMARE	6		ING-IND/16
+	DIGITAL MARKETING (in inglese)	ROMA	6		ING-IND/35
+22396	LAB OF BUSINESS PROCESS DIGITALIZATION (in inglese)	BRUCCOLERI	3	1° semestre	
+05917	PROVA FINALE		15	2° semestre	
+	Stage, Tirocini, Altro		3		
+	Gruppo di attiv. form. opzionali		6		
+	Gruppo di attiv. form. opzionali II		6		
+
+Gruppo di attiv. form. opzionali II
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+19220	CYBERSECURITY (in inglese)	GALLO	6	1° semestre	ING-INF/05
+23217	BUSINESS ANALYTICS (in inglese)	MANCINI	6	1° semestre	MAT/09
+05871	PROGRAMMAZIONE	LA CASCIA	6	2° semestre	ING-INF/05
+20462	FONDAMENTI DI SMART GRIDS	RIVA SANSEVERINO	6	2° semestre	ING-IND/33
+21506	BIG DATA AND ANALYTICS C.I.	LA CASCIA	6	2° semestre	
+	DATA ANALYTICS AND STORAGE (in inglese)	LA CASCIA	3		ING-INF/05
+	MACHINE LEARNING	TINNIRELLO	3		ING-INF/03
+22198	HR AND CHANGE MANAGEMENT (in inglese)	PACE	6	2° semestre	M-PSI/06
+
+Gruppo di attiv. form. opzionali
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+17882	DIGITAL MANUFACTURING (in inglese)	RANA	6	1° semestre	ING-IND/16
+22197	STRATEGIC MANAGEMENT AND OPEN INNOVATION (in inglese)	PIAZZA	6	1° semestre	ING-IND/35
+22339	ADVANCED PROJECT MANAGEMENT FOR BUSINESS (in inglese)		6	1° semestre	ING-IND/17
+23218	SMART CONTRACTS, BLOCKCHAIN AND CYBER SECURITY AWARENESS (in inglese)		6	1° semestre	ING-IND/35
+16079	SICUREZZA INDUSTRIALE	LA FATA	6	2° semestre	ING-IND/17
+21512	PROCESS AND SYSTEM SIMULATION (in inglese)	BUFFA	6	2° semestre	ING-IND/16
+22341	ADDITIVE MANUFACTURING (in inglese)	PALMERI	6	2° semestre	ING-IND/16
+22342	TECH ENTREPRENEURSHIP (in inglese)	PERRONE	6	2° semestre	ING-IND/35
+23152	DIGITAL PRODUCT MANAGEMENT (in inglese)		6	2° semestre	ING-IND/35
+
+

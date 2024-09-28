@@ -1,0 +1,2 @@
+Il corso di GASDINAMICA del corso di Laurea magistrale in INGEGNERIA AEROSPAZIALE , ha i seguenti obiettivi formativi: 
+Al termine del corso, lo studente sarà in grado di: i) argomentare i concetti di  fluidodinamica comprimibile e la loro applicazione in ingegneria aeronautica ed  aerospaziale; ii) impostare un problema di gas dinamica mediante opportune  ipotesi iniziali legate al problema stesso; iii) risolvere un problema di gas  dinamica mediante tecniche semi-analitiche e/o numeriche.

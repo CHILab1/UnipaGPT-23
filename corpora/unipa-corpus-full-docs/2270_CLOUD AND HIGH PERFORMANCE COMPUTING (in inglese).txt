@@ -1,0 +1,2 @@
+Il corso di CLOUD AND HIGH PERFORMANCE COMPUTING (in inglese) del corso di Laurea magistrale in DATA, ALGORITHMS, AND MACHINE INTELLIGENCE , ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente una panoramica e strumenti di  applicazione sui principali argomenti di Cloud e High Performance Computing  adeguati alla Laurea Magistrale in Data, Algorithms, And Machine Intelligence.

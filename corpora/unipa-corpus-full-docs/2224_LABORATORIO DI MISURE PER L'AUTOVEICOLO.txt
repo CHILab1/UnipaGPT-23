@@ -1,0 +1,2 @@
+Il corso di LABORATORIO DI MISURE PER L'AUTOVEICOLO del corso di Laurea in INGEGNERIA ELETTRICA PER LA E-MOBILITY , ha i seguenti obiettivi formativi: 
+- Effettuare tarature di varie tipologie di strumentazione di misura; - Caratterizzare sistemi lineari nel dominio del tempo e della frequenza; - Approfondire l'utilizzo di multimetri, oscilloscopi e generatori di segnale; - Progettare e realizzare in laboratorio sistemi di misura e prova.

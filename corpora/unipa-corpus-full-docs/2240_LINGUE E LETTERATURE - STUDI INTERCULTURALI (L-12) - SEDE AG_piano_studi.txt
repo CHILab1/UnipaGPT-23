@@ -1,0 +1,87 @@
+Anno Accademico 2023/2024
+Laurea in LINGUE E LETTERATURE - STUDI INTERCULTURALI
+Curriculum: LINGUE E LETTERATURE - STUDI INTERCULTURALI (L-12) - SEDE AG
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=1930
+---------
+Classe di Laurea in Lingue e culture moderne (L-11)Classe di Laurea in Mediazione linguistica (L-12)
+Durata 3 anni
+Sede AGRIGENTO
+Numero posti in programmazione locale: 500
+Dipartimento di Scienze Umanistiche
+Codice corso 2240
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+04770	LINGUISTICA GENERALE	NIGRELLI	9	1° semestre	L-LIN/01
+06715	STORIA CONTEMPORANEA	VERRI	6	1° semestre	M-STO/04
+13351	ALTRE CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO		3	1° semestre	
+04777	LINGUISTICA ITALIANA	CASTIGLIONE	9	2° semestre	L-FIL-LET/12
+	Gruppo di attiv. form. opzionali		18		
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+	Gruppo di attiv. form. opzionali III		18		
+	Gruppo di attiv. form. opzionali IV		24		
+	Gruppo di attiv. form. opzionali V		9		
+	Gruppo di attiv. form. opzionali IX		6		
+	Attiv. form. a scelta dello studente		12		
+
+Insegnamenti terzo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+15082	LINGUA ITALIANA PER STRANIERI		9	1° semestre	L-FIL-LET/12
+19741	LINGUISTICA ACQUISIZIONALE		6	1° semestre	L-LIN/02
+05917	PROVA FINALE		3	2° semestre	
+	Gruppo di attiv. form. opzionali VI		18		
+	Gruppo di attiv. form. opzionali VII		24		
+	Gruppo di attiv. form. opzionali VIII		6		
+
+Gruppo di attiv. form. opzionali VI
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+13265	LINGUA E TRADUZIONE FRANCESE III		9	1° semestre	L-LIN/04
+13267	LINGUA E TRADUZIONE INGLESE III		9	1° semestre	L-LIN/12
+13268	LINGUA E TRADUZIONE SPAGNOLA III		9	1° semestre	L-LIN/07
+13271	LINGUA E TRADUZIONE ARABA III	SAITTA	9	1° semestre	L-OR/12
+
+Gruppo di attiv. form. opzionali IV
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+19046	LETTERATURA E CULTURA ARABA I	SAITTA	12	1° semestre	L-OR/12
+19052	LETTERATURA E CULTURA FRANCESE I		12	1° semestre	L-LIN/03
+19049	LETTERATURA E CULTURA SPAGNOLA I		12	2° semestre	L-LIN/05
+19050	LETTERATURA E CULTURA INGLESE I		12	2° semestre	L-LIN/10
+
+Gruppo di attiv. form. opzionali VII
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+19045	LETTERATURA E CULTURA ARABA II	SAITTA	12	1° semestre	L-OR/12
+19051	LETTERATURA E CULTURA FRANCESE II		12	1° semestre	L-LIN/03
+19053	LETTERATURA E CULTURA SPAGNOLA II		12	2° semestre	L-LIN/05
+19054	LETTERATURA E CULTURA INGLESE II		12	2° semestre	L-LIN/10
+
+Gruppo di attiv. form. opzionali III
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+13146	LINGUA E TRADUZIONE SPAGNOLA II		9	1° semestre	L-LIN/07
+13150	LINGUA E TRADUZIONE INGLESE II		9	1° semestre	L-LIN/12
+13238	LINGUA E TRADUZIONE FRANCESE II		9	1° semestre	L-LIN/04
+13239	LINGUA E TRADUZIONE ARABA II	SCIORTINO	9	1° semestre	L-OR/12
+
+Gruppo di attiv. form. opzionali V
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+19852	ORIGINI DELLE LINGUE E LETTERATURE GERMANICHE	GILIBERTO	9	1° semestre	L-FIL-LET/15
+19851	ORIGINI DELLE LINGUE E LETTERATURE ROMANZE	COLLURA	9	2° semestre	L-FIL-LET/09
+
+Gruppo di attiv. form. opzionali
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+04633	LINGUA E TRADUZIONE ARABA I	SCIORTINO	9	1° semestre	L-OR/12
+04644	LINGUA E TRADUZIONE INGLESE I	IACONO	9	1° semestre	L-LIN/12
+04638	LINGUA E TRADUZIONE FRANCESE I	CORRE	9	2° semestre	L-LIN/04
+04659	LINGUA E TRADUZIONE SPAGNOLA I	FASINO	9	2° semestre	L-LIN/07
+
+Gruppo di attiv. form. opzionali VIII
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+14184	TIROCINIO FORMATIVO E DI ORIENTAMENTO		6	1° semestre	
+15081	TIROCINIO DI LINGUA ITALIANA COME LINGUA SECONDA		6	1° semestre	
+
+Gruppo di attiv. form. opzionali IX
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+04438	LETTERATURA ITALIANA		6	1° semestre	L-FIL-LET/10
+19853	LETTERATURA ITALIANA CONTEMPORANEA E INTERCULTURALITÀ	CARMINA	6	2° semestre	L-FIL-LET/11
+

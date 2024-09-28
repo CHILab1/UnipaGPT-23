@@ -1,0 +1,2 @@
+Il corso di FINANZA QUANTITATIVA PER L'AMBIENTE del corso di Laurea magistrale in SCIENZE ECONOMICHE E FINANZIARIE del curriculum ECONOMIA DELLO SVILUPPO SOSTENIBILE, DEL TERRITORIO E DEL TURISMO, ha i seguenti obiettivi formativi: 
+Al termine del corso lo studente sara' in grado di: 1 ) Conoscere strumenti finanziari volti a gestire i rischi ambientali. 3 ) Valutare il prezzo di prodotti finanziari complessi ed implementare tecniche  quantitative di stima di questi strumenti. 4 ) Distinguere tra vari modelli discreti e continui di prezzo.

@@ -1,0 +1,2 @@
+Il corso di DYNAMIC SYSTEMS IDENTIFICATION AND FILTERING (in inglese) del corso di Laurea in INGEGNERIA ELETTRONICA del curriculum MODERN ELECTRONICS, ha i seguenti obiettivi formativi: 
+Imparare tecniche di filtraggio ottimo per sistemi stocastici. Imparare a  determinare un modello matematico a partire dai dati sperimentali misurati sul  sistema.

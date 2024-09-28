@@ -1,0 +1,68 @@
+Anno Accademico 2023/2024
+Laurea in NURSING
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=1882
+---------
+Classe di Laurea in Professioni sanitarie, infermieristiche e professione sanitaria ostetrica (L/SNT1)
+Durata 3 anni
+Sede PALERMO
+Numero posti in programmazine nazionale: 60
+Dipartimento di Promozione della Salute, Materno-Infantile, di Medicina Interna e Specialistica di Eccellenza “G. D’Alessandro”
+Codice corso 2233
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+20323	BIOLOGY AND GENETICS (in inglese)	GRIMAUDO	3	1° semestre	BIO/13
+20324	HUMAN ANATOMY AND HISTOLOGY (in inglese)		3	1° semestre	BIO/16
+20413	FOREIGN LANGUAGE (in inglese)		3	1° semestre	
+20426	GENERAL NURSING AND MEDICAL HUMANITIES C.I. (in inglese)	CRAXI'	9	1° semestre	
+	THEORY OF NURSING (in inglese)		3		MED/45
+	GENERAL PSYCHOLOGY (in inglese)		3		M-PSI/01
+	BIOETHICS (in inglese)	CRAXI'	3		MED/02
+20316	GENERAL PATHOLOGY AND MICROBIOLOGY C.I.	BONURA	6	2° semestre	
+	MICROBIOLOGY	BONURA	3		MED/07
+	GENERAL PATHOLOGY (in inglese)		3		MED/04
+20330	PHYSIOLOGY (in inglese)	GAMBINO	3	2° semestre	BIO/09
+20335	INTERNSHIP I (in inglese)		15	2° semestre	MED/45
+20437	NURSING METHODOLOGY AND TECHNIQUES (in inglese)		6	2° semestre	MED/45
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+20315	PHARMACOLOGY, ONCOLOGY AND PALLIATIVE CARE C.I. (in inglese)	LAVANCO	6	1° semestre	
+	PHARMACOLOGY (in inglese)	LAVANCO	3		BIO/14
+	ONCOLOGY AND PALLIATIVE CARE (in inglese)	GRISTINA	3		MED/06
+20317	MEDICAL SCIENCE C.I. (in inglese)	LICATA	9	1° semestre	
+	GASTROENTEROLOGY (in inglese)	CALVARUSO	3		MED/12
+	INTERNAL MEDICINE (in inglese)	LICATA	3		MED/09
+	INFECTIOUS DISEASE (in inglese)	CASCIO	3		MED/17
+20326	DIAGNOSTICS AND RADIOTHERAPY (in inglese)	MIDIRI	3	1° semestre	MED/36
+20334	INTERNSHIP II (in inglese)		20	Annuale	MED/45
+23419	NURSING METHODOLOGY IN ORTHOPAEDIC - REHABILITATIVE AREA C.I. (in inglese)		6	1° semestre	
+	ORTHOPEDIC NURSING		3		MED/45
+	REHABILITATIVE NURSING (in inglese)		3		MED/45
+20313	SURGICAL SCIENCE C.I. (in inglese)	PAVONE	6	2° semestre	
+	UROLOGY (in inglese)	PAVONE	3		MED/24
+	GENERAL SURGERY (in inglese)	BUSCEMI	3		MED/18
+23302	RESEARCH METHODOLOGY, HYGIENE AND PREVENTION IN NURSING C.I. (in inglese)	LO MONACO	9	2° semestre	
+	HYGIENE, EPIDEMIOLOGY AND PREVENTION (in inglese)	IMMORDINO	3		MED/42
+	INFORMATICS (in inglese)		3		INF/01
+	RESEARCH METHODOLOGY IN NURSING	LO MONACO	3		MED/45
+
+Insegnamenti terzo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+20337	INTERNSHIP III (in inglese)		25	Annuale	MED/45
+20362	SPECIALIST NURSING IN MATERNAL-PEDIATRIC AREA C.I. (in inglese)		6	1° semestre	
+	OBSTETRIC NURSING (in inglese)		3		MED/47
+	PEDIATRIC NURSING (in inglese)		3		MED/45
+20431	NURSING METHODOLOGY IN CRITICAL AND NEUROLOGICAL AREA (in inglese)		6	1° semestre	MED/45
+21906	CRITICAL CARE AND INTENSIVE MEDICINE C.I. (in inglese)	NOVO	6	1° semestre	
+	ANESTHESIOLOGY	CORTEGIANI	3		MED/41
+	CARDIOLOGY (in inglese)	NOVO	3		MED/11
+20425	OTHER ACTIVITIES (in inglese)		6	2° semestre	
+20427	LABORATORY (in inglese)		3	2° semestre	
+20429	FINAL EXAMINATION		6	2° semestre	
+20436	FORENSIC MEDICINE, DEONTOLOGY AND HEALTH SYSTEM MANAGEMENT C.I. (in inglese)	ARGO	9	2° semestre	
+	CLINICAL PSYCHOLOGY (in inglese)		3		M-PSI/08
+	FORENSIC MEDICINE	ARGO	3		MED/43
+	HEALTH MANAGEMENT (in inglese)	COSENZ	3		SECS-P/07
+	Optional Educational Activities (ADO)		6		
+

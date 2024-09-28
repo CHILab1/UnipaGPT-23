@@ -1,0 +1,2 @@
+Il corso di MODELLISTICA E COMPATIBILITA' ELETTROMAGNETICA del corso di Laurea magistrale in INGEGNERIA ELETTRICA del curriculum SMART GRIDS PER LA TRANSIZIONE ENERGETICA, ha i seguenti obiettivi formativi: 
+Conoscenza e capacita' di applicazione di metodi analitici e numerici per  l’analisi di sistemi elettromagnetici. Acquisizione delle competenze necessarie  per la valutazione degli aspetti basilari della compatibilita' elettromagnetica di  apparati e sistemi in ambito industriale.

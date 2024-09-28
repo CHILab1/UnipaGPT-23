@@ -1,0 +1,2 @@
+SPID
+Sistema Pubblico di Identità Digitale (SPID). È il sistema di accesso che consente di utilizzare, con un’identità digitale unica, i servizi online della Pubblica Amministrazione e dei privati accreditati.

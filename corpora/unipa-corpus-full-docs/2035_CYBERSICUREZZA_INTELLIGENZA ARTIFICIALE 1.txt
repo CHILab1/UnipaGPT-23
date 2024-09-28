@@ -1,0 +1,2 @@
+Il corso di INTELLIGENZA ARTIFICIALE 1 del corso di Laurea magistrale in INGEGNERIA INFORMATICA del curriculum CYBERSICUREZZA, ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente i concetti di base nell’ambito  dell'intelligenza artificiale. Durante il corso vengono affrontate le tecniche di  problem solving, di ragionamento automatico e di apprendimento automatico,  assieme alla loro applicazione a casi concreti.

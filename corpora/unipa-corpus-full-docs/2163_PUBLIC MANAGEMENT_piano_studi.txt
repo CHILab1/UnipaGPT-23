@@ -1,0 +1,33 @@
+Anno Accademico 2023/2024
+Laurea magistrale in SCIENZE DELLE AMMINISTRAZIONI E DELLE ORGANIZZAZIONI COMPLESSE
+Curriculum: PUBLIC MANAGEMENT
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=771
+---------
+Classe di Laurea magistrale in Scienze delle pubbliche amministrazioni (LM-63)
+Durata 2 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Scienze Politiche e delle Relazioni Internazionali
+Codice corso 2163
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+15905	INTERNATIONAL TRADE LAW (in inglese)	CASABONA	6	1° semestre	IUS/02
+19378	COMPETITION LAW (in inglese)	GARILLI	6	1° semestre	IUS/04
+21176	TRANSNATIONAL CRIMINAL JUSTICE (in inglese)	PARISI	6	1° semestre	IUS/17
+18691	ECONOMICS OF CULTURAL MARKETS (in inglese)	FIORITO	6	2° semestre	SECS-P/01
+21165	DYNAMIC PERFORMANCE MANAGEMENT FOR PUBLIC SECTOR ORGANIZATIONS (in inglese)	BIANCHI	8	2° semestre	INF/01
+21175	DYNAMIC PERFORMANCE MANAGEMENT (in inglese)	BIANCHI	10	2° semestre	SECS-P/07
+21177	DYNAMIC PERFORMANCE GOVERNANCE (in inglese)	BIANCHI	12	2° semestre	SECS-P/07
+21779	HUMAN NATURE IN ECONOMICS AND POLITICS (in inglese)	FIORITO	6	2° semestre	SECS-P/04
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+13351	ALTRE CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO (in inglese)		3	1° semestre	
+14184	TIROCINIO FORMATIVO E DI ORIENTAMENTO		9	1° semestre	
+17939	MODELS AND TECHNIQUES FOR HUMAN RESOURCES ASSESSMENT AND DEVELOPMENT (in inglese)	CERESIA	9	1° semestre	M-PSI/06
+19379	LABOUR LAW AND INDUSTRIAL RELATIONS IN THE PUBLIC SECTOR (in inglese)		6	1° semestre	IUS/07
+05917	PROVA FINALE		19	2° semestre	
+17980	GLOBAL POLITICS (in inglese)	MONTELEONE	6	2° semestre	SPS/04
+	Attiv. form. a scelta dello studente		8		
+

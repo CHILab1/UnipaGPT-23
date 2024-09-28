@@ -1,0 +1,2 @@
+Il corso di OPTOELECTRONICS (in inglese) del corso di Laurea magistrale in ELECTRONICS ENGINEERING del curriculum MODERN ELECTRONICS, ha i seguenti obiettivi formativi: 
+Lo scopo del corso e' quello di fornire una conoscenza solida e coordinata dei  dispositivi e dei sistemi per le comunicazioni in fibra ottica. Vengono illustrati i  criteri di progetto e di valutazione delle prestazioni dei collegamenti in fibra  ottica a larga banda con particolare riferimento ai sistemi a multiplazione in divisone di lunghezza d’onda (WDM).

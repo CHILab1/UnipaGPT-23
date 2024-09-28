@@ -1,0 +1,2 @@
+Il corso di LINGUAGGI DI PROGRAMMAZIONE del corso di Laurea in INFORMATICA , ha i seguenti obiettivi formativi: 
+Fornire competenze di base e avanzate, sia metodologiche che tecniche, sui  paradigmi dei linguaggi di programmazione, in particolar modo sul paradigma  orientato agli oggetti e su quello funzionale.

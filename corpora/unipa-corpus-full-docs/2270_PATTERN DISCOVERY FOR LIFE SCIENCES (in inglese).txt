@@ -1,0 +1,2 @@
+Il corso di PATTERN DISCOVERY FOR LIFE SCIENCES (in inglese) del corso di Laurea magistrale in DATA, ALGORITHMS, AND MACHINE INTELLIGENCE , ha i seguenti obiettivi formativi: 
+Obiettivo del corso e' quello di fornire strumenti sia teorici che pratici per  risolvere problemi nel campo della bioinformatica. Gli studenti  acquisiranno  anche la capacita' di approfondire le conoscenze acquisite con la consultazione  di pubblicazioni scientifiche.

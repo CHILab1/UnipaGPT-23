@@ -1,0 +1,2 @@
+Il corso di INTERAZIONE PERSONA-MACCHINA del corso di Laurea in INTELLIGENZA ARTIFICIALE , ha i seguenti obiettivi formativi: 
+Il corso intende fornire agli studenti  un repertorio di conoscenze utili a progettare sistemi interattivi e ad analizzare  l’efficacia degli stessi, anche in contesti comprendenti elementi di intelligenza  artificiale.  Vengono offerte connessioni con le discipline del design e delle  scienze cognitive, nonché esperienza diretta delle fasi principali del processo di  progettazione.

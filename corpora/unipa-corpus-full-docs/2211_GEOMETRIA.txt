@@ -1,0 +1,2 @@
+Il corso di GEOMETRIA del corso di Laurea in INGEGNERIA CHIMICA E BIOCHIMICA , ha i seguenti obiettivi formativi: 
+Sviluppare una conoscenza dei concetti matematici che supportano le discipline  ingegneristiche quali: Spazi vettoriali, Calcolo vettoriale, Calcolo matriciale,  Sistemi lineari, Trasformazioni lineari, Diagonalizzazione di matrici, Riferimenti  affini nello spazio, Posizione reciproca di luoghi geometrici, Spazi euclidei,  Prodotto vettoriale e basi ortonormali.

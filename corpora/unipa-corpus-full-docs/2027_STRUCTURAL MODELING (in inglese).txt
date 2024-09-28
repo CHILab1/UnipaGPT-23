@@ -1,0 +1,2 @@
+Il corso di STRUCTURAL MODELING (in inglese) del corso di Laurea magistrale in INGEGNERIA DEI SISTEMI EDILIZI , ha i seguenti obiettivi formativi: 
+Acquisire le conoscenze teoriche basilari della meccanica computazionale e  modellare l’organismo strutturale in campo statico e dinamico mediante il  metodo degli elementi finiti.

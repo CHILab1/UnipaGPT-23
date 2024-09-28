@@ -1,0 +1,2 @@
+Il corso di FONDAMENTI DI ELETTRONICA del corso di Laurea in INGEGNERIA BIOMEDICA del curriculum INGEGNERIA BIOMEDICA - SEDE CL, ha i seguenti obiettivi formativi: 
+Conoscenza dei circuiti logici sia di tipo combinatorio che sequenziale per  arrivare sino alle memorie. Conoscenza dei principi di base dell’elettronica  analogica moderna, dei dispositivi elettronici, delle modalità di funzionamento  dei dispositivi utilizzati che dei circuiti in cui sono inseriti. Elementi di base  riguardo la fase di progettazione dei circuiti elettronici.

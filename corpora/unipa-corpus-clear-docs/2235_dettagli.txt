@@ -1,0 +1,60 @@
+Anno Accademico 2023/2024
+Laurea magistrale in STATISTICA E DATA SCIENCE
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=1885
+---------
+Classe di Laurea magistrale in Scienze statistiche (LM-82)
+Durata 2 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Scienze Economiche, Aziendali e Statistiche
+Codice corso 2235
+---------
+Obiettivi Formativi
+Obiettivi specifici:
+La Laurea Magistrale in Statistica e Data Science, coerentemente con quanto richiesto dagli obiettivi formativi della classe e con le indicazioni provenienti dalle indagini sulla collocazione nel mercato del lavoro dei laureati in discipline statistiche (come, ad esempio, dall'iniziativa interuniversitaria AlmaLaurea), si propone di ottenere una figura di laureato che, dotato di una solida preparazione superiore nell'ambito della matematica, della probabilità, della statistica e dell'informatica, sia capace di operare in vari settori di applicazione con autonomia e responsabilità e di inserirsi sul mercato del lavoro come esperto qualificato, in grado di produrre, gestire e analizzare flussi informativi diversificati.
+Il CdLM fornisce gli strumenti per consentire una solida preparazione metodologica statistica insieme con strumenti propri di alcuni contesti applicativi. L'attività didattica frontale è caratterizzata da una forte integrazione fra lezioni teoriche ed esercitazioni e laboratori, ed è indirizzata alla formazione di due figure professionali fortemente suggerite: la prima rivolta ai metodi statistici per la biostatistica, e la seconda rivolta ai metodi quantitativi di risk management.
+Inoltre è stata attivata la convenzione con l'Università di Minho (Portogallo) per il conseguimento del doppio titolo di laurea di II livello.
+L'assetto formativo del CdLM, si caratterizza per:
+- la presenza di un pacchetto di insegnamenti comuni di livello avanzato di discipline matematiche, probabilistiche e statistiche, che assicuri allo studente l'approfondimento e l'acquisizione di conoscenze utili per i successivi ampliamenti metodologici e applicativi della statistica;
+- un elevato grado di personalizzazione del Piano di Studi (circa 40 CFU) da parte dello studente, al quale sono fortemente consigliati due personalizzazioni di riferimento relative all'ambito biostatistico e all'ambito finanziario;
+- l'attenzione alle metodologie didattiche, avendo cura che la solida formazione teorica, basata sulle lezioni frontali, sia integrata con laboratori informatici, nei quali saranno discussi casi e problemi reali e saranno approfonditi temi di rilevanza applicativa nei quali la Statistica si rivela strumento indispensabile di analisi. In questo modo, si intende facilitare lo sviluppo di un'adeguata capacità critica nello studente che, partendo da una solida base metodologica, lo porti a mantenere costante attenzione anche al processo di formazione dei dati - negli aspetti concettuali di definizione e di misura - e a un uso critico di teorie e metodi, in relazione alla natura e al significato dei dati disponibili, trasformandoli in informazioni e quindi in conoscenza utilizzabile a fini decisionali. Le attività di laboratorio dovranno contribuire a sviluppare anche le capacità di comunicazione, attraverso la predisposizione e la presentazione di relazioni scritte e/o orali; una particolare attenzione alla abilità linguistica, secondo due direzioni: a) approfondimento dell'Inglese per scopi specifici (ESP), con un approccio specialistico rispetto a quella generalista del I livello; b) approfondimento della lingua parlata con l'introduzione di un periodo (una settimana) di lezioni, per semestre, svolte in lingua inglese, durante il quale il docente stimola gli studenti al dialogo in lingua inglese sugli argomenti illustrati; inoltre, alcuni degli insegnamenti opzionali, attivati nell'ambito di altri CdL dell'Ateneo, sono interamente svolti in lingua inglese. A questo si aggiunge la possibilità di svolgere un tirocinio formativo presso aziende o organizzazioni private e pubbliche (3 CFU), e la possibilità di destinare fino a 3 CFU ad attività (altre conoscenze utili per l'inserimento nel mondo del lavoro) in cui si "mima" una consulenza statistica vera e propria, sotto la supervisione dei docenti del Corso. L'obiettivo è fornire agli studenti le conoscenze e le competenze avanzate, anche di tipo trasversale, oltre che professionale, per la conduzione di una attività di consulenza statistica nei confronti di esterni. Tale esperienza, oltre a essere un'utile vetrina nei confronti delle aziende, è sicuramente un valore aggiunto per il neo laureato che si affaccia sul mondo del lavoro, perché ha avuto modo di sperimentare direttamente le proprie capacità relazionali e professionali con dei futuri clienti/utenti;
+- la possibilità, di anno in anno, di prevedere piccoli accorgimenti con l'inserimento di insegnamenti o di profili che siano rispondenti al mondo del lavoro favorendo gli sbocchi occupazionali dei laureati;
+- La possibilità di conseguire anche il titolo di Mestre em Estati'stica, rilasciato dall'Universidade do Minho (Portogallo), in seguito alla frequenza, e superamento dei relativi esami, di un pacchetto di insegnamento tenuti dalla stessa struttura.
+---------
+Sbocchi Occupazionali
+Profilo:
+statistico / supporto alle valutazioni del rischio di credito 
+Funzioni:
+Analisi dei dati e supporto all'attività di gestione del rischio in ambito finanziario e creditizio.
+Competenze:
+progettazione e realizzazione di attività di valutazione per la gestione della qualità e per la valutazione delle performance in campo bancario;
+certificazione delle metodologie e delle tecniche statistiche applicate alle indagini;
+analisi di dati e formalizzazione di modelli matematico/statistici per indagare i fenomeni e per effettuare previsioni nei vari ambiti applicativi con particolare riferimento al risk management;
+progettazione, creazione e gestione di banche dati per finalità di analisi statistica del rischio connesso ad aspetti sia interni che esterni al sistema finanziario e creditizio.
+Sbocchi:
+nelle pubbliche amministrazioni;
+negli uffici studi delle aziende che operano in campo economico, finanziario, e assicurativo
+in uffici statistici di medio-grandi imprese,
+in uffici marketing di imprese di produzione e di distribuzione,
+in società di gestione di sistemi informativi; in società di consulenza statistica che svolgono attività di supporto esterno ad aziende private e pubbliche;
+in centri ed istituti di ricerca pubblici e privati.
+Profilo:
+biostatistico
+Funzioni:
+Analisi dei dati e supporto alla ricerca in ambito clinico, epidemiologico e biologico.
+Competenze:
+Progettazione di indagini statistiche complesse attinenti ai campi specifici di specializzazione;
+progettazione, analisi e verifica dei risultati di esperimenti e prove cliniche controllate;
+progettazione e realizzazione di attività di valutazione rivolte alla gestione della qualità e alla misurazione delle performance;
+conoscenza ed applicazione delle metodologie e delle tecniche statistiche in relazione al tipo di dati e agli obiettivi della ricerca;
+analisi di dati e formalizzazione di modelli matematico/statistici per indagare i fenomeni e per effettuare previsioni in ambito biologico, sanitario, epidemiologico;
+progettazione e creazione, per la parte di competenza statistica, di banche dati per finalità di analisi statistica.
+Sbocchi:
+Nelle aziende sanitarie, sia nel settore clinico che nel settore epidemiologico che in quello gestionale.
+Negli assessorati alla sanità nei settori valutazione ed epidemiologia.
+In uffici di progettazione e sperimentazione di aziende operanti nei settori biomedico, epidemiologico, biologico; in centri ed istituti di ricerca pubblici e privati
+---------
+Caratteristiche della Prova Finale
+Per conseguire la laurea lo/a studente/ssa deve aver acquisito 120 crediti formativi compresi quelli relativi alla prova finale, pari ad almeno 18 CFU.
+La prova finale, ovvero una tesi scritta che si caratterizza per la sua originalità, ha l'obiettivo di verificare il livello di maturità e la capacità critica del laureando, con riferimento agli apprendimenti e alle conoscenze acquisite, a completamento delle attività previste dell'ordinamento didattico.
+---------

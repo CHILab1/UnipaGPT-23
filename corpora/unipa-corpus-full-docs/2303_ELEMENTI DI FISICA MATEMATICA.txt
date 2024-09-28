@@ -1,0 +1,2 @@
+Il corso di ELEMENTI DI FISICA MATEMATICA del corso di Laurea in INGEGNERIA AMBIENTALE PER LO SVILUPPO SOSTENIBILE , ha i seguenti obiettivi formativi: 
+L’obiettivo del corso e' quello di fornire agli studenti i fondamenti per un approccio rigoroso ai problemi della meccanica dei sistemi vincolati e allo studio dei sistemi dinamici.     Gli studenti acquisiranno le seguenti conoscenze: - Vettori applicati. - Sistemi dinamici vincolati. - Ricerca degli equilibri e analisi della loro stabilita'

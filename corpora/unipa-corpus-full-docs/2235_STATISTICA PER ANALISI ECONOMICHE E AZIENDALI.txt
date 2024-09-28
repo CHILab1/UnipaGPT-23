@@ -1,0 +1,2 @@
+Il corso di STATISTICA PER ANALISI ECONOMICHE E AZIENDALI del corso di Laurea magistrale in STATISTICA E DATA SCIENCE , ha i seguenti obiettivi formativi: 
+Il corso si propone di illustrare i principali strumenti e metodi statistici utilizzabili  per l’organizzazione e l’analisi dei dati, aziendali e non, di supporto alle  valutazioni e alle decisioni aziendali.

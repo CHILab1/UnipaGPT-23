@@ -1,0 +1,2 @@
+Il corso di INTELLIGENZA ARTIFICIALE PER LA ROBOTICA del corso di Laurea in INGEGNERIA ROBOTICA , ha i seguenti obiettivi formativi: 
+Lo studente sara' capace di applicare le metodologie studiate in contesti  differenti e di apprendere processi di analisi e sintesi relativi al software per il  controllo di semplici sistemi robot autonomi utilizzando metodologie di  Intelligenza Artificiale.

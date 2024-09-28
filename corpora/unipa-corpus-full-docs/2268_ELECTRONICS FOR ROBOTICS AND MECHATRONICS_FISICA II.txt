@@ -1,0 +1,2 @@
+Il corso di FISICA II del corso di Laurea in INGEGNERIA ELETTRONICA del curriculum ELECTRONICS FOR ROBOTICS AND MECHATRONICS, ha i seguenti obiettivi formativi: 
+Comprendere i principi fisici fondamentali e l'impianto logico-matematico alla  base dell'elettromagnetismo classico: elettrostatica, magnetostatica,  elettromagnetismo. Conseguire la padronanza delle equazioni di Maxwell in  forma integrale e differenziale e la loro applicazione a situazioni concrete.

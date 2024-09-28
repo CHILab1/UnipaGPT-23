@@ -1,0 +1,2 @@
+Il corso di CYBERSICUREZZA del corso di Laurea magistrale in INGEGNERIA INFORMATICA del curriculum CYBERSICUREZZA, ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente i concetti di base nell’ambito della  sicurezza dei sistemi di elaborazione. Durante il corso sono affrontate le  problematiche relative alla sicurezza dei sistemi operativi, dei Data Base, dei  sistemi software in generale. Vengono inoltre analizzati i principali protocolli alla  base della progettazione di sistemi distribuiti sicuri.

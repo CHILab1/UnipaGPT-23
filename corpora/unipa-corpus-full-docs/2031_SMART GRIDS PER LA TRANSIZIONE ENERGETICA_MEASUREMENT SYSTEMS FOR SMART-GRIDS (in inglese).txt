@@ -1,0 +1,2 @@
+Il corso di MEASUREMENT SYSTEMS FOR SMART-GRIDS (in inglese) del corso di Laurea magistrale in INGEGNERIA ELETTRICA del curriculum SMART GRIDS PER LA TRANSIZIONE ENERGETICA, ha i seguenti obiettivi formativi: 
+Conoscere le principali caratteristiche e tipologie di strumenti e metodi di misura  nei sistemi elettrici di potenza e nelle smart grid, nonché i criteri essenziali per la loro scelta, utilizzo e gestione, con  particolare riguardo ai sistemi di misura distribuiti ed automatici, alla power quality ed alle misure di energia.

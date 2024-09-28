@@ -1,0 +1,2 @@
+Il corso di MECCANICA COMPUTAZIONALE DELLE STRUTTURE del corso di Laurea magistrale in INGEGNERIA CIVILE del curriculum GEOTECNICA, ha i seguenti obiettivi formativi: 
+L’obbiettivo principale del corso e' quello di fornire agli allievi le conoscenze  teoriche basilari della meccanica computazionale e di consentire agli stessi la  conoscenza diretta degli strumenti di calcolo agli elementi finiti, tramite la  risoluzione in aula di un sufficiente numero di problemi di calcolo strutturale.

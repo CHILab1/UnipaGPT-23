@@ -1,0 +1,2 @@
+Il corso di PROGRAMMAZIONE WEB E MOBILE del corso di Laurea in INGEGNERIA INFORMATICA , ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente i concetti di base per lo sviluppo di  applicazioni web e mobile. In particolare il corso affronta gli aspetti e le  problematiche principali relative alla programmazione per i dipositivi mobile,  nonché i principali linguaggi utilizzati per la realizzazione di moderne pagine  web.

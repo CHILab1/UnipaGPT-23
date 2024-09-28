@@ -1,0 +1,38 @@
+Corsi di studio telematici
+ 
+L'Università degli Studi di Palermo promuove l'arricchimento della propria Offerta Formativa convenzionale, integrandola con l'istituzione e l'attivazione di Corsi di Studio erogati prevalentemente o integralmente a distanza e adottando, a tal fine, strumenti a distanza per i servizi formativi e informativi garantendone la loro fruibilità in rete.
+Destinatari
+I Corsi individuati sono rivolti a studenti italiani e stranieri impossibilitati ad assicurare la presenza alle lezioni frontali o a sopportare i costi inerenti ad una lunga permanenza fuori sede e a studenti lavoratori italiani e stranieri, che grazie alla fruibilità e flessibilità del percorso, possono accedere ad una maggiore qualificazione ed aggiornamento professionale.
+
+Attualmente, sono stati attivati i seguenti corsi in modalità telematica:
+Electronics and Telecommunications Engineering (LM-27 & LM-29)*Il corso mira alla formazione di professionisti con abilità nella progettazione e la messa in produzione di sistemi di sistemi elettronici e di misurazione e nella definizione di architetture di telecomunicazioni, sistemi e servizi.
+*Corso di studi interclasse: Le classi dei corsi di studio in Italia sono dei raggruppamenti, individuati con separati decreti ministeriali, dei corsi di studio delle università italiane. Il Corso di Studi è unico e conforme alle due Classi (LM-27 Ingegneria delle telecomunicazioni, LM-29 Ingegneria elettronica). Il piano di studi è identico per le due classi. Lo studente deve indicare al momento dell’immatricolazione la classe entro cui intende conseguire il titolo di studio. Lo studente può comunque modificare la sua scelta, purché questa diventi definitiva al momento dell’iscrizione al secondo anno della laurea magistrale.
+Management Engineering (LM-31)La crescente complessità ed il dinamismo del sistema competitivo nell&#39;era della globalizzazione e della digitalizzazione, richiede nuove figure professionali capaci di risolvere i problemi in un modo interdisciplinare, flessibile ed innovativo. La figura dell'Ingegnere Gestionale risponde alle necessità del mercato attuale. Ciò lo rende sempre più apprezzato e richiesto nel mondo degli affari e nella pubblica amministrazione. L'ingegnere gestionale ha a che fare con la soluzione di problemi di natura tecnica, economica, manageriale ed organizzativa nei processi di produzione e consumo di beni e/o servizi, usando metodi ed abilità caratteristici dell'ingegneria.
+International Relations, Politics and Trade (LM-52) Il corso mira a formare professionisti esperti nei processi di internazionalizzazione delle aziende. L'esperto nei processi di internazionalizzazione è responsabile per mettere a punto e sviluppare la strategia e le attività dell&#39;azienda sui mercati internazionali, sia di natura commerciale (gestione dell'import/export, e-commerce), produttiva o di distribuzione, a prescindere dal settore di produzione, espresso anche tramite la presenza stabile nei paesi target.
+Modalità di erogazione e fruizione
+La piattaforma utilizzata per l'erogazione dei corsi in teledidattica è una piattaforma LMS basata su Moodle, uno standard de-facto per l'erogazione di didattica online. 
+ 
+L'accesso a tutti i servizi è consentito mediante il sistema di autenticazione unica (Single Sign-On) di Unipa.
+L'erogazione dei servizi formativi avviene 24 ore su 24 per tutte le attività formative fruibili in modalità asincrona e sincrona (many to many) e in tempi e modalità programmate per gli eventi live (one to many). Tutte le attività didattiche sono coordinate dal docente titolare del corso o dal Tutor didattico.
+Le attività didattiche si svolgono all'interno di quattro ambienti di apprendimento:
+La Videoteca include le lezioni, ovvero le videolezioni e le relative slide; Tutte le attività svolte all’interno della piattaforma vengono registrate ed elaborate in report periodici al fine di monitorare/valutare l'andamento didattico del gruppo.
+La Mediateca include i materiali didattici (Learning Object) relativi alle videolezioni (es. dispense, filmati, immagini, schemi, animazioni, riferimenti bibliografici) che rappresentano degli approfondimenti per ciascun argomento delle videolezioni e sono raccolti dentro un Sistema Bibliografico Intelligente;
+Il Laboratorio Virtuale è l’ambiente a disposizione degli studenti e delle studentesse per l’approfondimento delle loro conoscenze mediante lo strumento “learning by doing”. In tale ambiente, gli apprendenti trovano gli esercizi collegati alle videolezioni in modo da esercitarsi durante il corso. Inoltre, sono assistiti in itinere da un sistema di Tutoring, in due modalità distinte: esercizi individuali ed esercizi collaborativi;             
+L’ambiente di Tutoring On Line include tutti gli strumenti per lo svolgimento delle attività di Tutorato a distanza, e permette di:                  
+accedere in rete ad ambienti di apprendimento collaborativo e cooperativo interfacciandosi con altri studenti;
+instaurare con il proprio Tutor un dialogo che lo guidi e sia di sostegno per il suo processo formativo.
+Tutte le attività svolte all’interno della piattaforma vengono registrate ed elaborate in report periodici al fine di monitorare/valutare l'andamento didattico del gruppo.
+ 
+ATTENZIONE: si precisa che tutti gli esami di profitto verranno sostenuti in presenza
+Iscrizione ai corsi telematici
+Per l'iscrizione ai corsi telematici, segui la procedura di immatricolazione online sul portale studenti 
+Contribuzione e tasse
+la quota di contribuzione è composta da quattro parti:
+Imposta di bollo, di cui al D.P.R. 26 ottobre 1972, n. 642, assolta in maniera virtuale, Euro 16,00
+Tassa Regionale per il diritto allo studio, versata secondo l’importo stabilito dalla Regione Siciliana. Euro 140,00.
+Contributo onnicomprensivo annuale, determinato in funzione del valore dell'indicatore ISEE e differenziato per le aree e i corsi abilitanti all’esercizio della professione, secondo la tabella A del regolamento per la contribuzione studentesca.
+Contributo annuale aggiuntivo per i corsi di laurea telematici, determinato in funzione del valore dell'indicatore ISEE, secondo la seguente tabella
+Valore ISEE   Importo del contributo
+<= Euro 25.000,00   Euro 600,00
+> Euro 25.000,00    Euro 1.200,00
+Per maggiori informazioni vai su https://www.unipa.it/servizi/online-degree-programmes/

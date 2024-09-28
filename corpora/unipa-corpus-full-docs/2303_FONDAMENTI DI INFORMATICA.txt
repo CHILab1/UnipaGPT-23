@@ -1,0 +1,2 @@
+Il corso di FONDAMENTI DI INFORMATICA del corso di Laurea in INGEGNERIA AMBIENTALE PER LO SVILUPPO SOSTENIBILE , ha i seguenti obiettivi formativi: 
+Al termine del corso lo studente acquisira' alcuni concetti di base nell’ambito  della programmazione in un linguaggio interpretato e le basi per l’uso dei fogli di  calcolo e della linea di comando del S.O. Linux. Durante il corso vengono  affrontate le tecniche di sviluppo di programmi con l’uso del linguaggio Octave/ Matlab. L’approccio sara' orientato alla codifica di algoritmi e alla strutturazione  e gestione dei dati.

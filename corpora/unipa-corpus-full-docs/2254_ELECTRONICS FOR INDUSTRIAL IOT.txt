@@ -1,0 +1,2 @@
+Il corso di ELECTRONICS FOR INDUSTRIAL IOT del corso di Laurea magistrale in INGEGNERIA DEI SISTEMI CIBER-FISICI PER L'INDUSTRIA , ha i seguenti obiettivi formativi: 
+L'insegnamento si prefigge lo studio dei metodi di progettazione e dimensionamento di sistemi elettronici programmabili per IoT Industriale. Si      analizzano i metodi di progetto e gli strumenti adatti allo sviluppo di applicazioni complete comprendenti un sistema digitale programmabile come cuore della soluzione.

@@ -1,0 +1,2 @@
+Il corso di CALCOLATORI ELETTRONICI C.I. del corso di Laurea in INGEGNERIA CIBERNETICA , ha i seguenti obiettivi formativi: 
+Lo studente sara' capace di applicare le metodologie studiate in contesti differenti e di apprendere processi di analisi e sintesi  relativi ai circuiti logici. Al termine del corso lo studente sara' in grado di valutare, analizzare, comunicare e implementare le possibili soluzioni software a semplici problemi utilizzando l’acquisita padronanza del linguaggio C.

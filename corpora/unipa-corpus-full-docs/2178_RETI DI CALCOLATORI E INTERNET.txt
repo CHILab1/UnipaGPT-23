@@ -1,0 +1,2 @@
+Il corso di RETI DI CALCOLATORI E INTERNET del corso di Laurea in INGEGNERIA INFORMATICA , ha i seguenti obiettivi formativi: 
+L’obiettivo del corso e' di formare lo studente con riferimento alla conoscenza  dei principi basilari di un’architettura di rete. In particolare verra' acquisita la  capacita' di comprendere i principi di funzionamento di un’architettura a livelli e  dei principali protocolli di ciascun livello dell’architettura Internet e delle diverse  applicazioni distribuite.

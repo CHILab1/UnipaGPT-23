@@ -1,0 +1,2 @@
+Il corso di AGENTI AUTONOMI del corso di Laurea in INTELLIGENZA ARTIFICIALE , ha i seguenti obiettivi formativi: 
+Il principale obiettivo formativo è quello di fornire alle studentesse e agli studenti  gli strumenti per comprendere i principi di progettazione, funzionamento e di  programmazione degli agenti autonomi e dei robot. Acquisire metodi e strumenti      per sviluppare tecniche di intelligenza artificiale, e progettare e programmare  agenti capaci autonomamente di esibire comportamenti, acquisire conoscenza  ed elaborare modelli e strategie.

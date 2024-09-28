@@ -1,0 +1,2 @@
+Il corso di PROGETTAZIONE DI PROCESSO del corso di Laurea magistrale in INGEGNERIA AEROSPAZIALE , ha i seguenti obiettivi formativi: 
+Fornire agli allievi gli strumenti necessari alla progettazione dei processi di  formatura tramite simulazione numerica basata sull’analisi agli elementi finiti. Evidenziare l’influenza delle scelte progettuali sulle caratteristiche dei  componenti finiti.

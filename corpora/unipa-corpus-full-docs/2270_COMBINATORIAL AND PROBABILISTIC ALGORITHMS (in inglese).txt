@@ -1,0 +1,2 @@
+Il corso di COMBINATORIAL AND PROBABILISTIC ALGORITHMS (in inglese) del corso di Laurea magistrale in DATA, ALGORITHMS, AND MACHINE INTELLIGENCE , ha i seguenti obiettivi formativi: 
+Esporre lo studente a tecniche avanzate di progetto ed analisi di algoritmi. In  particolare, si copre tutto lo spettro delle strutture dati dinamiche e degli algoritmi, con approfondito studio di complessita'  computazionale di problemi intrattabili o che coinvolgono grosse quantita' di dati e di loro soluzioni approssimate.

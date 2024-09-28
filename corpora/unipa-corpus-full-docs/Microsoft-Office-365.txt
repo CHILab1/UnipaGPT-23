@@ -1,0 +1,34 @@
+
+Microsoft Office 365: gratuito per tutta la comunità studentesca UniPa
+
+L’Università degli Studi di Palermo, grazie alla convenzione tra la CRUI-Conferenza dei Rettori delle Università Italiane e Microsoft, mette gratuitamente a disposizione di studenti, dottorandi, e assegnisti di ricerca, l’opportunità di scaricare “Office 365 pro” sui propri terminali includendo le versioni più recenti degli applicativi Word, Excel, PowerPoint, OneNote, Outlook, Access. 
+La licenza permette di avere oltre alle funzionalità disponibili su “Office365 online”, la possibilità di scaricare il pacchetto completo office M365pro, di aggiornare il proprio sistema operativo a Windows10 Enterprise, ed avere la soluzione EMS Enterprise Mobility + Security E3 installabile sui propri device fissi e mobili come endpoint. 
+Benefici 
+    utilizzare M365pro gratuitamente per tutto il periodo di iscrizione all’Università di Palermo;
+    installare il prodotto su un massimo di 5 Pc, Mac o tablet (compreso iPad);
+    utilizzare OneDrive, un servizio cloud storage da 5TB di spazio utile per l'archiviazione e la condivisione di file, e che include la sincronizzazione automatica dei contenuti su tutti i dispositivi;
+    utilizzare le APP consentite dall’Ateneo inserite nel pacchetto di licenza (Teams, Planner, Delve, Stream). 
+
+Chi può usufruire del servizio 
+    Studenti regolarmente iscritti ad un Corso di Studio UniPa;
+    Dottorandi regolarmente iscritti ad un Corso di Dottorato UniPa;
+    Assegnisti di Ricerca UniPa. 
+
+Come accedere alla piattaforma 
+Collegati al sito https://you.unipa.it e accedi con le tue credenziali di accesso per il Portale di Ateneo. 
+Tutti i servizi sono abilitati per la posta istituzionale <nome.cognome>@you.unipa.it sul dominio you.unipa.it. 
+
+Per installare M365 PRO sui tuoi device segui le seguenti indicazioni: 
+    disinstalla eventuali versioni di Office presenti nel tuo PC o Device;
+    accedi con il tuo account <nome.cognome>@you.unipa.it dal sito https://you.unipa.it;
+    dopo aver inserito le tue credenziali sarai indirizzato dal sistema alla APP Outlook;
+    clicca sulla icona coi 9 puntini presente in alto a sinistra e successivamente su “Office365” in alto a destra;
+    sarai indirizzato nella homepage della piattaforma dove sono presenti le icone delle APP ìdisponibili;
+    nella parte destra più in alto della homepage è presente il tasto “Installa Office”;
+    clicca sul tasto “Installa Office” e scarica il file di istallazione;
+    segui le indicazioni guidate per completare l’installazione. 
+
+Per difficoltà tecniche e supporto puoi inviare una e-mail all’indirizzo di posta elettronica supportosia@unipa.it. 
+La licenza M365 Students è l’estensione della licenza M365 Faculty già attiva in questi anni per il personale docente e tecnico-amministrativo-bibliotecario (TAB) UniPa secondo le modalità previste dalla convenzione.
+
+Per maggiori informazioni vai su https://www.unipa.it/Microsoft-Office-365-gratuito-per-tutta-la-comunit-studentesca-UniPa/

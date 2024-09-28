@@ -1,0 +1,2 @@
+Il corso di FONDAMENTI DI ELETTRONICA del corso di Laurea in INGEGNERIA INFORMATICA , ha i seguenti obiettivi formativi: 
+Analisi di sistemi elettronici e loro ripartizione in moduli funzionali. Vengono  descritte funzione, realizzazione e caratteristiche di interfaccia dei vari  sottomoduli. Il corso comprende anche le nozioni fondamentali relative alla  progettazione di semplici sistemi elettronici digitali.

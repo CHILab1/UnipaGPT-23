@@ -1,0 +1,37 @@
+Anno Accademico 2023/2024
+Laurea magistrale in INGEGNERIA E TECNOLOGIE INNOVATIVE PER L'AMBIENTE
+Curriculum: SOSTENIBILITÀ AMBIENTALE DEI PROCESSI INDUSTRIALI
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=1627
+---------
+Classe di Laurea magistrale in Ingegneria per l'ambiente e il territorio (LM-35)
+Durata 2 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Ingegneria
+Doppio titolo con Gdansk University of Technology, Gdansk (POLAND)Tongji University, Shanghai (CHINA)
+Codice corso 2202
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+08999	COMPLEMENTI DI IDRAULICA AMBIENTALE	NAPOLI	9	1° semestre	ICAR/01
+09005	BONIFICA SITI CONTAMINATI	DI TRAPANI	9	1° semestre	ICAR/03
+20552	EFFICIENZA ENERGETICA E ECO-DESIGN DI SISTEMI E PROCESSI C.I.	CELLURA	12	1° semestre	
+	ECO-DESIGN DI SISTEMI E PROCESSI	CELLURA	6		ING-IND/11
+	EFFICIENZA ENERGETICA	SCACCIANOCE	6		ING-IND/11
+09002	PROCESSI CHIM.IND.E TRATT.EFFL.AERIFORMI	SCIALDONE	9	2° semestre	ING-IND/27
+19106	CERTIFICAZIONE ENERGETICA E MARCHI AMBIENTALI	MILONE	6	2° semestre	ING-IND/11
+20553	MITIGAZIONE DEL RISCHIO IDROGEOLOGICO C.I.	NOTO	12	2° semestre	
+	PREVISIONE E PREVENZIONE DEL RISCHIO IDROGEOLOGICO	NOTO	6		ICAR/02
+	PROTEZIONE IDRAULICA DEL TERRITORIO	CANDELA	6		ICAR/02
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+13675	ELEMENTI DI TECNICA DELLE COSTRUZIONI	MINAFO'	6	1° semestre	ICAR/09
+16079	SICUREZZA INDUSTRIALE	GRISAFI	9	1° semestre	ING-IND/25
+20559	SOSTENIBILITÀ DEI PROCESSI INDUSTRIALI (in inglese)	SCIALDONE	6	1° semestre	ING-IND/27
+20560	IMPIANTI PER L'INDUSTRIA DI PROCESSO	CAPUTO	9	1° semestre	ING-IND/25
+05917	PROVA FINALE		12	2° semestre	
+	Stage, Tirocini, Altro		12		
+	Attiv. form. a scelta dello studente		9		
+
+

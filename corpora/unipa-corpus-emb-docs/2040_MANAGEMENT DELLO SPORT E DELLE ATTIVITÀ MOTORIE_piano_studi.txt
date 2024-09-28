@@ -1,0 +1,57 @@
+Anno Accademico 2023/2024
+Laurea magistrale in MANAGEMENT DELLO SPORT E DELLE ATTIVITA'  MOTORIE
+Curriculum: MANAGEMENT DELLO SPORT E DELLE ATTIVITÀ MOTORIE
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=759
+---------
+Classe di Laurea magistrale in Organizzazione e gestione dei servizi per lo sport e le attività motorie (LM-47)
+Durata 2 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Scienze Politiche e delle Relazioni Internazionali
+Codice corso 2040
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+02526	DIRITTO PRIVATO	AGRIFOGLIO	6	1° semestre	IUS/01	Apprendimento delle fondamentali nozioni del diritto privato con particolare riferimento agli istituti determinanti per le funzioni manageriali che costituiscono il tratto professionalizzante del Corso di laurea. Verrà riservata, quindi, particolare attenzione, alla parte relativa ai soggetti giuridici e la loro tutela e ai profili dell'autonomia privata, con specifico riferimento alla parte relativa ai contratti.
+13351	ALTRE CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO		3	1° semestre	
+16968	DIRITTO SPORTIVO - CORSO INTEGRATO	SANTORO	15	Annuale		Il corso mira a far raggiungere agli studenti la piena padronanza degli istituti del diritto sportivo, analizzati sul piano teorico e  su quello pratico della loro concreta applicazione nell'ambito del management sportivo.La materia affronta in maniera  approfondita i temi attinenti al diritto sportivo, ad eccezione dei soggetti che concorrono all'esercizio dell'attività sporitva, quali  gli agenti, gli ausiliari, della contrattualistica sportiva, della responsabilità sportiva, del doping e della giustizia sportiva che e'  oggetto di specifico insegnamento con la materia Diritto sportivo II. Sono oggetto di studio, in particolare, i seguenti  argomenti: la parte introduttiva al corso, le fonti dell'ordinamento sportivo e i soggetti operanti all'interno dell'ordinamento  sportivo, Il corso mira a far raggiungere agli studenti la piena padronanza degli istituti del diritto sportivo, analizzati sul piano teorico e  su quello pratico della loro concreta applicazione nell'ambito del management sportivo.La materia affronta in maniera  approfondita tutti i temi attinenti al diritto sportivo, ad eccezione delle fonti dell'ordinamento sportivo e dei soggetti operanti  all'interno dell'ordinamento sportivo, i quali fanno parte del corso di Diritto sportivo I
+	DIRITTO SPORTIVO I	LIOTTA	6		IUS/01
+	DIRITTO SPORTIVO II	SANTORO	9		IUS/01
+19349	ORGANIZZAZIONE E GESTIONE DELLE ATTIVITÀ  MOTORIE	CATALDO	8	1° semestre	M-EDF/01	Al termine del corso di studio gli studenti acquisiranno le competenze  necessarie per operare efficacemente nell’ambito degli assetti tecnico organizzativi entro i quali si  colloca il sistema delle attività sportive in Italia. In particolare essi potranno progettare, organizzare e gestire le  diverse tipologie di servizi e strutture per lo sport.
+23388	ECONOMICS OF SPORT (in inglese)	AUCI	6	1° semestre	SECS-P/01	Il principale obiettivo del corso consiste nel presentare le teorie economiche  (micro e macro) al fine di sviluppare le conoscenze sulle modalità fondamentali  di funzionamento dello sport professionistico a squadre. Verranno esaminati sia  i comportamenti dei singoli operatori coinvolti, sia verrà approfondito lo studio  dei diversi modelli teorici ed economici riscontrabili nell’espletamento delle varie  discipline sportive e nelle diverse aree geografiche, con particolare riferimento al  processo di globalizzazione dell’economia dello sport.
+19350	ORGANIZZAZIONE E GESTIONE DELLE ATTIVITÀ SPORTIVE	PALAZZOLO	8	2° semestre	M-EDF/02	Al termine del corso di studio gli studenti acquisiranno le competenze  necessarie per operare efficacemente nell’ambito degli assetti tecnico organizzativi entro i quali si  colloca il sistema delle attività sportive in Italia. In particolare essi potranno progettare, organizzare e gestire le  diverse tipologie di servizi e strutture per lo sport.
+89615	ECONOMIA AZIENDALE	SCIRE'	8	2° semestre	SECS-P/07
+	Attiv. form. a scelta dello studente (consigliate)		4		
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+04639	LINGUA E TRADUZIONE INGLESE		3	1° semestre	L-LIN/12
+07553	TIROCINIO		12	Annuale	
+11514	SICUREZZA E QUALITA' NELLO SPORT C.I.	FERRARA	12	Annuale		Il corso di legislazione dell'handicap tende ad offrire agli studenti le nozioni utili alla comprensione delle tematiche inerenti alla  tutela delle disabilita. Particolare spazio e' dedicato al tema delle pari opportunita' e al divieto di discriminazioni fondate  sull'handicap, avuto specifico riguardo all'evoluzione normativa in ambito internazionale, comunitario ed interno. Il corso  affronta, inoltre, il tema dello sport nella disabilita. Acquisizione di un quadro generale sui principi e sugli istituti fondamentali del diritto amministrativo, anche alla luce delle  recenti riforme di cui sono stati oggetto l'organizzazione e l'azione della pubblica amministrazione e comprensione delle  dinamiche coinvolte nel procedimento amministrativo e degli atti decisionali che ne segnano la conclusione. L'insegnamento riveste un ruolo fondamentale nel percorso formativo del laureato in management dello sport, che deve  possedere competenze specifiche in materia di impianti sportivi, con particolare riferimento alla padronanza degli istituti  giuridici relativi alle modalita' per la loro realizzazione e gestione.
+	LEGISLAZIONE DELLA DISABILITÀ	RICCOBENE	4		IUS/01
+	IMPIANTISTICA SPORTIVA	FERRARA	4		IUS/09
+	DIRITTO AMMINISTRATIVO	FERRARA	4		IUS/10
+13466	ANALISI DI BILANCIO C.I.	VALENTI	9	1° semestre		La disciplina si occupa della riclassificazione e dell’analisi dei documenti riepilogativo-contabili economico-patrimoniali per la verifica delle condizioni di redditivita' economica, di solidita' patrimoniale e di solvibilita' finanziaria delle aziende del settore dello sport. La disciplina si occupa dell’analisi degli istituti tradizionalmente inclusi nel diritto commerciale – gli imprenditori, le societa, i  titoli di credito, il fallimento e le altre procedure concorsuali – studiati con particolare attenzione alle loro applicazioni nel  mondo dello sport.
+	DIRITTO COMMERCIALE	VALENTI	4		IUS/04
+	FINANCIAL AND STATEMENT ANALYSIS (in inglese)	SCIRE'	5		SECS-P/07
+05917	PROVA FINALE		7	2° semestre	
+09429	INFORMAZIONE E COMUNICAZIONE SPORTIVA-C.I.	RICCOBENE	9	2° semestre		il corso di Diritto dell'Informazione e' volto ad offrire agli studenti gli strumenti necessari alla piena comprensione delle  tematiche inerenti alla liberta' di manifestazione del pensiero di cui all'art. 21 Cost. ed, in particolare, ai temi del diritto di  cronaca e di critica giornalistica. Il corso approfondisce le relazioni intercorrenti tra la tutela dei menzionati diritti di cronaca e  di critica e la tutela del diritto alla riservatezza, la tutela dell'onore e la tutela della reputazione. Parte dello studio e, inoltre,  dedicata, al tema del diritto di satira giornalistica tutelato dall'art. 36 Cost Il modulo tende ad offrire agli studenti una piena conoscenza degli istituti afferenti il diritto della privacy con le connesse  problematiche relative agli strumenti di tutela e garanzia nel quadro dei diritti costituzionali.
+	DIRITTO DELLA PRIVACY	VALENTI	5		IUS/01
+	DIRITTO DELL'INFORMAZIONE	RICCOBENE	4		IUS/01
+	Gruppo di attiv. form. opzionali		6		
+	Attiv. form. a scelta dello stud. (consigliate) II		4		
+
+Attiv. form. a scelta dello stud. (consigliate) II
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+19749	SPORT A VIOLENZA REGOLATA E RESPONSABILITÀ CIVILE	AGRIFOGLIO	4	1° semestre	IUS/01	Il corso tende ad offrire agli studenti una piena conoscenza degli istituti afferenti  il diritto alla salute nello sport con le connesse problematiche relative agli  strumenti di tutela e garanzia nel quadro dei diritti costituzionali.
+
+Attiv. form. a scelta dello studente (consigliate)
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+16967	DIRITTO TRIBUTARIO SPORTIVO	PERRONE	4	2° semestre	IUS/12	Obiettivi formativi:  Il primo obiettivo formativo e' quello di ottenere un'adeguata  conoscenza dei principi fondamentali del sistema tributario e delle imposte piu'  importanti. Il secondo obiettivo formativo e' quello di essere in grado di applicare  tali conoscenze al particolare settore della contrattualistica sportiva, delle  societa' sportive e delle associazioni sportive dilettantistiche.
+19290	DIRITTO EUROPEO DELLO SPORT		4	2° semestre	IUS/01	Il corso mira a far raggiungere agli studenti la piena padronanza degli istituti del  diritto europeo dello sport,  analizzati sul piano teorico e su quello pratico della  loro concreta applicazione nell'ambito del management sportivo.La materia  affronta in maniera approfondita tutti i temi attinenti al diritto europeo dello sport,  con particolare riguardo alla giurisprudenza della Corte di Giustizia europea in  materia di sporting exception e di libertà nell'esercizio della attività sportive.
+
+Gruppo di attiv. form. opzionali
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+16620	SOCIOLOGIA DELLO SPORT	PEPE	6	1° semestre	SPS/07	Obiettivo del modulo e' sia l’acquisizione di conoscenze e competenze inerenti  le forme, le pratiche, i significati del tempo libero e i cambiamenti verificatisi a  partire dalla nascita dello sport e dalla diffusione della vacanza, sia  l’acquisizione di competenze tecniche e teoriche necessarie all'analisi delle  diverse pratiche di leisure e, in particolare, delle differenti forme che assume la  pratica sportiva in Italia e in Europa. Nello specifico, il corso prendera' in  considerazione gli effetti del processo di industrializzazione sulla domanda e  sull’offerta di tempo libero non soltanto in relazione ai vincoli economici (redditi e  risorse), ma anche sociali e culturali (rispetto ai gruppi sociali di riferimento, alle  reti sociali, ad altre forme istituzionali di appartenenza che intervengono nella  dinamica del mutamento dei consumi sia a livello individuale, sia a livello  collettivo). Si analizzera' l’evoluzione della pratica sportiva in Italia e in Europa  dagli inizi del XX secolo in poi e sia i cambiamenti di diffusione delle diverse  tipologie di sport (individuali e di squadra), sia la rilevanza che ha avuto il  contesto in cui praticarlo. Si concentrera' l’attenzione sull'intreccio esistente fra  socializzazione alla pratica sportiva, nascita del professionismo sportivo e  mediatizzazione dello sport, soffermandosi sugli aspetti sociali, culturali e  istituzionali che favoriscono sia la diffusione della pratica sportiva. Si  esamineranno infine le forme e le pratiche del tempo libero che rientrano in  quella che alcuni studiosi definiscono area del deviant leisure, fino ad analizzare  alcune “derive” che assume il consumo di tempo libero in relazione alle mutate  condizioni sociali contemporanee. Il corso si concludera' con una analisi delle  tendenza di maggiore diffusione di una cosiddetta vita “non sedentaria”, cio' che  in Europa e' certamente piu' evidente ma anche delle maggiori forme di      “dipendenza” che nel tempo libero si possono sviluppare.
+22673	SPORTS PSYCOLOGY (in inglese)	MISURACA	6	2° semestre	M-PSI/01
+

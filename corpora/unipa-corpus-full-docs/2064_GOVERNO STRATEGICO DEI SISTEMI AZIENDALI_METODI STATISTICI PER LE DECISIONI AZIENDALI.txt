@@ -1,0 +1,2 @@
+Il corso di METODI STATISTICI PER LE DECISIONI AZIENDALI del corso di Laurea magistrale in SCIENZE ECONOMICO-AZIENDALI del curriculum GOVERNO STRATEGICO DEI SISTEMI AZIENDALI, ha i seguenti obiettivi formativi: 
+La conoscenza dei principali metodi di statistica multivariata per l'analisi  esplorativa di dati multidimensionali. Capacita' di ottenere conoscenze utili da insieme di dati di grandi dimensioni  oggi disponibili al trattamento informatizzato.

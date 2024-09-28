@@ -1,0 +1,2 @@
+Il corso di METODI COMPUTAZIONALI DI BASE PER LA CHIMICA del corso di Laurea in CHIMICA , ha i seguenti obiettivi formativi: 
+L’obiettivo del corso e  quello di fornire gli elementi necessari per la  comprensione della teoria dell'analisi degli errori, di metodi matematici di base  per il trattamento di dati sperimentali, per l'utilizzo di software di uso comune in  ambito matematico.

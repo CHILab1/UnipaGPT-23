@@ -1,0 +1,10 @@
+MODALITÀ DI PAGAMENTO DI TASSE E CONTRIBUTI
+Il pagamento delle tasse e del contributo onnicomprensivo deve essere effettuato esclusivamente mediante sistema PAgoPA (Pagamenti della Pubblica Amministrazione), secondo quanto previsto dall’Agenzia per l’Italia Digitale.
+Al sistema PAgoPA si accede tramite quanto predisposto in modalità informatica dall’Università degli Studi di Palermo, salvo eventuali diversi sistemi di pagamento che l'Ateneo si riserva di comunicare.
+Lo studente, collegandosi con le proprie credenziali di accesso al portale https://www.unipa.it, compila online la pratica di interesse e procede direttamente al pagamento di quanto dovuto su sistema PAgoPA; oppure stampa il bollettino e paga presso una qualsivoglia ricevitoria abilitata PAgoPA.
+Il bollettino di pagamento potrà essere pagato nelle modalità indicate al link: https://immaweb.unipa.it/immaweb/public/pagamenti.seam.
+Nel caso di prima immatricolazione si procede con credenziali SPID (Sistema Pubblico di Identità Digitale); le istruzioni per ottenere le credenziali SPID sono indicate al link https://www.spid.gov.it/richiedi-spid.
+Per l’iscrizione ad anni successivi al primo la quietanza di pagamento non dovrà, in alcun caso, essere consegnata alla Segreteria studenti; lo studente deve però conservarla fino al conseguimento del titolo di studio. Essa costituisce la prova dell’avvenuto pagamento in caso di contestazioni.
+Per perfezionare l’immatricolazione lo studente deve, entro i termini previsti, versare la prima rata; si ribadisce che, ai fini dell’identificazione, lo studente che perfeziona la pratica con SPID non ha la necessità di recarsi presso la segreteria studenti per farsi riconoscere e consegnare documentazione.
+
+Per maggiori informazioni vai su https://www.unipa.it/servizi/segreterie/.content/documenti/regolamenti_calendari/2023/5105144-def_regolamento-contribuzione--studentesca-2023---24-2.pdf

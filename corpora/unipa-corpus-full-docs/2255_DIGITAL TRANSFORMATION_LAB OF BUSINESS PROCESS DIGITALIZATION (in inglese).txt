@@ -1,0 +1,2 @@
+Il corso di LAB OF BUSINESS PROCESS DIGITALIZATION (in inglese) del corso di Laurea magistrale in MANAGEMENT ENGINEERING del curriculum DIGITAL TRANSFORMATION, ha i seguenti obiettivi formativi: 
+Proper knowledge of the PEGA system and methodology for business process  digitalization. The student will understand the logic of PEGA and will know how  to use it at a basic level.

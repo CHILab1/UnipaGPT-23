@@ -1,0 +1,2 @@
+Il corso di RETI DI CALCOLATORI E INTERNET / PROGRAMMAZIONE WEB del corso di Laurea magistrale in DIGITAL HUMANITIES PER L'INDUSTRIA CULTURALE , ha i seguenti obiettivi formativi: 
+L’insegnamento si pone l'obiettivo di fornire gli strumenti metodologici ed  operativi per una chiara comprensione delle reti di calcolatori e di Internet, con  particolare riferimento agli aspetti architetturali ed ai servizi di base che vengono  erogati agli utenti. Inoltre, si propone di fornire le nozioni di base per la  realizzazione di una semplice sito Web.

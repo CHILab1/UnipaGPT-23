@@ -1,0 +1,2 @@
+Il corso di TEORIE E TECNICHE PER L'ANALISI DI IMMAGINI del corso di Laurea magistrale in MATEMATICA , ha i seguenti obiettivi formativi: 
+L’insegnamento si propone di fornire allo studente i concetti teorici e applicativi  per la definizioni e la realizzazione di metodi e di algoritmi per l’analisi  automatica di immagini biomediche. Sviluppo delle capacita' per l'appicazione ai  diversi ambiti del mondo del lavoro.

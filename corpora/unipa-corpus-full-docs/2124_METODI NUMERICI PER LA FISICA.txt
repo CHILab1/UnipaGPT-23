@@ -1,0 +1,2 @@
+Il corso di METODI NUMERICI PER LA FISICA del corso di Laurea in SCIENZE FISICHE , ha i seguenti obiettivi formativi: 
+Lo scopo del corso e' di fornire allo studente le competenze e conoscenze che  lo rendano in grado di affrontare autonomamente i principali problemi dell'analisi  numerica applicati alla Fisica.

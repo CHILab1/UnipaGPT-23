@@ -1,0 +1,2 @@
+Il corso di LABORATORIO DI INFORMATICA del corso di Laurea in TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA del curriculum TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA, ha i seguenti obiettivi formativi: 
+Fornire allo studente le basi per la comprensione della metodologia di  esecuzione del ambiente RIS e PACS.

@@ -1,0 +1,2 @@
+Il corso di MACHINE LEARNING del corso di Laurea in INTELLIGENZA ARTIFICIALE , ha i seguenti obiettivi formativi: 
+Obiettivo del corso e' fornire le basi teoriche e pratiche sui modelli di machine  learning per l'analisi di dati eterogenei, con particolare riferimento alla loro  classificazione supervisionata e non supervisionata. Le lezioni comprendono  anche l’implementazione di modelli ad apprendimento profondo. Lo strumento di  sviluppo utilizzato e' il Python.

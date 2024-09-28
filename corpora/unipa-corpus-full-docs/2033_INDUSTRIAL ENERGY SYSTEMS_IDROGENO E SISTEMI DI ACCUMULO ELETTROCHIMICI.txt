@@ -1,0 +1,2 @@
+Il corso di IDROGENO E SISTEMI DI ACCUMULO ELETTROCHIMICI del corso di Laurea magistrale in INGEGNERIA ENERGETICA E NUCLEARE del curriculum INDUSTRIAL ENERGY SYSTEMS, ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire una conoscenza di base sui principi di  funzionamento, termodinamici e cinetici, delle celle a combustibile, batterie ed  elottrolizzatori. Introdurre alle problematiche tecniche ed ingegneristiche che  sottintendono al funzionamento dei diversi tipi di generatore. Informare sui  miglioramenti richiesti per un’applicazione a scala piu' estesa.

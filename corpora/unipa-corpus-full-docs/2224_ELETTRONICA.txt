@@ -1,0 +1,2 @@
+Il corso di ELETTRONICA del corso di Laurea in INGEGNERIA ELETTRICA PER LA E-MOBILITY , ha i seguenti obiettivi formativi: 
+Analisi del sistema elettronico complesso e la sua ripartizione in moduli  funzionali. Vengono descritte funzione, realizzazione e caratteristiche di  interfaccia dei vari sottomoduli.

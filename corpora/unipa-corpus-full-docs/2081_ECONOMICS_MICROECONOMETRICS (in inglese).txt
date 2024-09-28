@@ -1,0 +1,2 @@
+Il corso di MICROECONOMETRICS (in inglese) del corso di Laurea in ECONOMIA E FINANZA del curriculum ECONOMICS, ha i seguenti obiettivi formativi: 
+1. Possedere un glossario di base della terminologia econometrica.   2. Conoscere i principali metodi inferenziali per la ricerca applicata in economia.  3. Analisi di dati economici reali con l’ausilio del pacchetto applicativo Stata.      4. Interpretazione di risultati empirici.  5. Utilizzo di strumenti analitici per formulare ipotesi interpretative, ricavare  implicazioni strategiche, e valutare la validità di studi empirici.

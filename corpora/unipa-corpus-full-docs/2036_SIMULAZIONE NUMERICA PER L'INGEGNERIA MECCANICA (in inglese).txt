@@ -1,0 +1,2 @@
+Il corso di SIMULAZIONE NUMERICA PER L'INGEGNERIA MECCANICA (in inglese) del corso di Laurea magistrale in INGEGNERIA MECCANICA , ha i seguenti obiettivi formativi: 
+Lo studente, al termine del corso, avra' acquisito conoscenze e metodologie  pratiche per analizzare, risolvere e ottimizzare problemi tipici della progettazione  con l’ausilio di metodi numerici. Lo studente sara' in grado di analizzare i risultati  delle simulazioni condotte e di affinare i modelli numerici al fine di ottenere  risultati accurati.

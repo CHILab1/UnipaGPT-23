@@ -1,0 +1,2 @@
+Il corso di ELETTRONICA PER I SISTEMI ROBOTICI del corso di Laurea in INGEGNERIA ROBOTICA , ha i seguenti obiettivi formativi: 
+L'insegnamento si prefigge lo studio e l'analisi dei principali sistemi elettronici  digitali programmabili: microprocessori, microcontrollori di piccolo taglio per  applicazioni embedded rivolte al controllo di un robot. Si introduce lo studente ai  metodi ed i linguaggi di programmazione per sistemi a microcontrollore.

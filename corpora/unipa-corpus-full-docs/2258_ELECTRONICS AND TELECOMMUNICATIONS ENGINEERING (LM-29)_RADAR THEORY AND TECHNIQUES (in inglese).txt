@@ -1,0 +1,2 @@
+Il corso di RADAR THEORY AND TECHNIQUES (in inglese) del corso di Laurea magistrale in ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING (FULLY ONLINE) del curriculum ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING (LM-29), ha i seguenti obiettivi formativi: 
+The course Principles of Radar will cover the following topics: 1) Basics of radar  functioning and radar nomenclature 2) Radar components 3) Radar equation 4)  Radar detection theory 5) Coherent and incoherent radar 6) Clutter and  detection in clutter 7) Radar target tracking 8) Moving target detector

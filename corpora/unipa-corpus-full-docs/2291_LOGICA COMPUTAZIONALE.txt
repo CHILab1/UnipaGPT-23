@@ -1,0 +1,2 @@
+Il corso di LOGICA COMPUTAZIONALE del corso di Laurea in INTELLIGENZA ARTIFICIALE , ha i seguenti obiettivi formativi: 
+Discenti al termine del corso dovranno avere una conoscenza teorica e pratica  dei seguenti argomenti:     - Nozioni di Calcolabilità     - Insiemi, Funzioni, Algoritmi     - Algebra Booleana e Circuiti     - Concetti Base nella Logica     - Logica delle Proposizioni     - Logica dei Predicati     - Le altre logiche     - Logica Fuzzy     - Linguaggi di programmazione per l'espressione dei concetti logici     - Sistemi Esperti

@@ -1,0 +1,2 @@
+Il corso di BASI DI DATI del corso di Laurea in STATISTICA PER L'ANALISI DEI DATI , ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente le conoscenze e le competenze  necessarie per affrontare la progettazione di basi di dati e l’utilizzo di sistemi di  gestione di basi di dati. In particolare, verranno esaminate le problematiche  relative al modello relazionale, all’algebra relazionale, al linguaggio SQL e alla  progettazione concettuale e logica.

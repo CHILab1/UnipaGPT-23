@@ -1,0 +1,2 @@
+Il corso di LABORATORIO DI ELETTROTECNICA CON MATLAB del corso di Laurea in INGEGNERIA ELETTRICA PER LA E-MOBILITY , ha i seguenti obiettivi formativi: 
+L’obiettivo principale del corso è quello di fornire all’allievo conoscenze generali  affinché  sia in grado valutare e di risolvere i problemi connessi all’impiego di  veicoli elettrici in una visione olistica che può essere raggiunta solamente con  impiego di software

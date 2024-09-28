@@ -1,0 +1,2 @@
+Il corso di STATISTICAL METHODS (in inglese) del corso di Laurea magistrale in SCIENZE ECONOMICO-AZIENDALI del curriculum ENTREPRENEURSHIP AND MANAGEMENT, ha i seguenti obiettivi formativi: 
+L'obiettivo del corso e' fornire allo studente le conoscenze teoriche e pratiche dell'analisi e modellazione di dati multivariati, La parte teorica, organizzata in lezioni frontali, sara' arricchita da esercitazioni svolte attraverso l'analisi di dati reali attraverso il software statistico R.

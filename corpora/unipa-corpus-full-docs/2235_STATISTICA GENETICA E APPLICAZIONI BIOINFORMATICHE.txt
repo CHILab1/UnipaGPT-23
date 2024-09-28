@@ -1,0 +1,2 @@
+Il corso di STATISTICA GENETICA E APPLICAZIONI BIOINFORMATICHE del corso di Laurea magistrale in STATISTICA E DATA SCIENCE , ha i seguenti obiettivi formativi: 
+Il corso si propone di introdurre lo studente ai principali metodi statistici per  l’analisi di espressività genica e di trasmettere le competenze informatiche di  base per l'analisi e la gestione di grosse moli di dati.

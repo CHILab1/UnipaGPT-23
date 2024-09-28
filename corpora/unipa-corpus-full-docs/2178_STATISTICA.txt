@@ -1,0 +1,2 @@
+Il corso di STATISTICA del corso di Laurea in INGEGNERIA INFORMATICA , ha i seguenti obiettivi formativi: 
+Lo studente al termine del corso dovra' avere conoscenza degli strumenti  basilari della statistica, del calcolo delle probabilita' ed in generale del metodo  scientifico di approccio ai problemi reali. Inoltre lo studente dovra' saper  analizzare statisticamente un dataset.

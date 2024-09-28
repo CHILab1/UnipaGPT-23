@@ -1,0 +1,2 @@
+Il corso di FONDAMENTI DI ELETTRONICA del corso di Laurea in INGEGNERIA CIBERNETICA , ha i seguenti obiettivi formativi: 
+Analisi del sistema elettronico complesso e la sua ripartizione in moduli  funzionali. Vengono descritte funzione, realizzazione e caratteristiche di  interfaccia dei vari sottomoduli. Il corso comprende anche le nozioni  fondamentali relative alla strumentazione e alle misure elettroniche.

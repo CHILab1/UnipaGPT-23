@@ -1,0 +1,2 @@
+Il corso di CALCOLO DELLE PROBABILITA' del corso di Laurea in INFORMATICA , ha i seguenti obiettivi formativi: 
+Sviluppare intuito e competenza sull'utilizzo degli strumenti fondamentali del  calcolo delle probabilità (particolare della probabilità condizionata) in problemi  concreti in cui l'incertezza è rilevante.

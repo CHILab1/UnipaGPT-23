@@ -1,0 +1,43 @@
+Anno Accademico 2023/2024
+Laurea magistrale in TRANSNATIONAL GERMAN STUDIES
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=1886
+---------
+Classe di Laurea magistrale in Lingue e letterature moderne europee e americane (LM-37)
+Durata 2 anni
+Sede PALERMO
+Numero posti in programmazione locale: 25
+Dipartimento di Scienze Umanistiche
+Codice corso 2230
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+20062	EMPLOYABILITY UND KOMPETENZFÖRDERUNG  I	(*) in te	3	1° semestre	
+20076	GERMANISTIK, EMPLOYABILITY UND KOMPETENZFÖRDERUNG I	(*) in te	3	1° semestre	
+20254	LITERATUR	AUTERI, (*) in te	15	1° semestre	
+	STOFFE UND MOTIVE DER DEUTSCHEN LITERATUR IM EUROPÄISCHEN KONTEXT I	DI BELLA, (*) in te	6		L-LIN/13
+	METHODEN UND THEMEN DER LITERATUR UND KULTURWISSENSCHAFTEN	GREENFIELD, (*) in te	3		L-FIL-LET/14
+	DEUTSCHE LITERATUR	AUTERI, (*) in te	6		L-LIN/13
+20066	STOFFE UND MOTIVE DER DEUTSCHEN LITERATUR IM EUROPÄISCHEN KONTEXT II	SIEGBURG, (*) in te	7	2° semestre	L-LIN/13
+20068	KULTUR UND SPRACHE II	(*) in te	17	2° semestre	
+	MEHRSPRACHIGKEIT	(*) in te	7		L-LIN/01
+	INTERKULTURALITÄT (VORMODERNE)	(*) in te	7		L-ART/01
+	INTRODUCTION TO PHILOSOPHY (TAUGHT IN ENGLISH) (in inglese)	PUGLIESE	3		M-FIL/03
+20088	WISSENSCHAFTLICHES SCHREIBEN	(*) in te	3	2° semestre	
+	Gruppo di attiv. form. opzionali		12		
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+20061	INTERTEXTUALITÄT UND DEUTSCHE LITERATUR	(*) in te	9	1° semestre	L-FIL-LET/14
+20069	KULTUR UND SPRACHE III	FUCHS-JOLIE, (*) in te	10	1° semestre	L-FIL-LET/15
+20289	MASTERARBEIT	(*) in te	30	2° semestre	
+	Attiv. form. a scelta dello studente		11		
+
+Gruppo di attiv. form. opzionali
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+20064	KULTUR UND SPRACHE I	HOFFMANN, (*) in te	12	1° semestre	
+	DEUTSCH C 1	HOFFMANN, (*) in te	6		L-LIN/14
+	EINFÜHRUNG IN DIE DEUTSCHE KULTUR IM EUROPÄISCHEN KONTEXT	BARRALE, (*) in te	6		L-LIN/13
+20089	KULTUR UND SPRACHE 1	(*) in te	12	1° semestre	
+	EINFÜHRUNG IN DIE DEUTSCHE KULTUR IM EUROPÄISCHEN KONTEXT 1	BARRALE, (*) in te	6		L-LIN/13
+	PORTUGIESISCH A 1	(*) in te	6		L-LIN/09
+

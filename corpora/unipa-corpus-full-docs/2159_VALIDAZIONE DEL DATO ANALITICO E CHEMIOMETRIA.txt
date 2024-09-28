@@ -1,0 +1,2 @@
+Il corso di VALIDAZIONE DEL DATO ANALITICO E CHEMIOMETRIA del corso di Laurea magistrale in CHIMICA , ha i seguenti obiettivi formativi: 
+Lo studente deve acquisire la conoscenza dei principi fondamentali e delle  strategie più importanti per l'approccio chemiometrico a dati analitici,  l’individuazione delle principali sorgenti di variabilita' ed infine le capacita' di  applicare una procedura di validazione del dato analitico in modo critico.

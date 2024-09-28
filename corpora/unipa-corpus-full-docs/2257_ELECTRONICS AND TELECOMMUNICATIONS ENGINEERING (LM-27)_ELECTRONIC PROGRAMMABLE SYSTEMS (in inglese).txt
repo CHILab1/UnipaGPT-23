@@ -1,0 +1,2 @@
+Il corso di ELECTRONIC PROGRAMMABLE SYSTEMS (in inglese) del corso di Laurea magistrale in ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING (FULLY ONLINE) del curriculum ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING (LM-27), ha i seguenti obiettivi formativi: 
+L'insegnamento si prefigge lo studio dei metodi di progettazione e  dimensionamento  di sistemi elettronici programmabili. Si analizzano i metodi di  progetto e gli strumenti adatti allo sviluppo di applicazioni complete  comprendenti un sistema digitale come cuore della soluzione.

@@ -1,0 +1,2 @@
+Il corso di PRINCIPI DI INGEGNERIA ELETTRICA del corso di Laurea in INGEGNERIA DELL'ENERGIA E DELLE FONTI RINNOVABILI del curriculum TECNOLOGIE E PRODUZIONE, ha i seguenti obiettivi formativi: 
+Sviluppo delle conoscenze e dell’intuito professionale nel campo  dell’elettromagnetismo stazionario applicato all'ingegneria industriale. Capacita' di risolvere circuiti lineari in qualunque regime e di eseguire bilanci di  potenza e valutazione del rendimento elettrico.

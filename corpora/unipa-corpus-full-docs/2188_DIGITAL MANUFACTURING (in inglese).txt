@@ -1,0 +1,2 @@
+Il corso di DIGITAL MANUFACTURING (in inglese) del corso di Laurea in INGEGNERIA CIBERNETICA , ha i seguenti obiettivi formativi: 
+Lo studente, al termine del corso, avra' acquisito conoscenze e metodologie  pratiche per lo sviluppo e la simulazione delle lavorazioni su macchine CNC e di  stampanti 3D. Sara' in grado di analizzare risultati di simulazioni condotte e di  ottimizzare i parametri operativi al fine di ottenere risultati piu' performanti.

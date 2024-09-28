@@ -1,0 +1,4 @@
+MYUNIPA
+È l’App di Ateneo per gli studenti iscritti o che intendano iscriversi all’Università degli Studi di Palermo.
+
+Per maggiori informazioni vai su https://www.unipa.it/target/futuristudenti/servizi-agli-studenti/app-myunipa/

@@ -1,0 +1,2 @@
+Il corso di GEOMETRIA 2 del corso di Laurea in MATEMATICA , ha i seguenti obiettivi formativi: 
+Obiettivo del corso e' sia quello d’estendere i concetti di topologia acquisiti nel  corso di Analisi Matematica 1 a situazioni piu' generali di uno spazio euclideo,  sia quello di studiare da un punto di vista affine e da un punto di vista proiettivo luoghi di punti descritti da equazioni algebriche di secondo grado.

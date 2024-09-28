@@ -1,0 +1,2 @@
+Il corso di ROBOTICA del corso di Laurea magistrale in INGEGNERIA INFORMATICA del curriculum INTELLIGENZA ARTIFICIALE, ha i seguenti obiettivi formativi: 
+Lo studente sara' capace di applicare le metodologie studiate in contesti  differenti e di apprendere processi di analisi e sintesi relativi al software per il  controllo di sistemi robotici, anche utilizzando metodologie avanzate.

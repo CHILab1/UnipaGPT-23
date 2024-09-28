@@ -1,0 +1,2 @@
+Il corso di SCIENTIFIC COMPUTING (in inglese) del corso di Laurea magistrale in INGEGNERIA ELETTRICA del curriculum SMART GRIDS PER LA TRANSIZIONE ENERGETICA, ha i seguenti obiettivi formativi: 
+Gli obiettivi formativi del corso consistono nell'acquisizione di nozioni,  metodologie e tecniche del calcolo scientifico al fine di fornire i risolutori  numerici fondamentali per problemi di ingegneria elettrica.

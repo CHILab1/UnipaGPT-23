@@ -1,0 +1,2 @@
+Il corso di ARTIFICIAL INTELLIGENCE AND DEEP LEARNING (in inglese) del corso di Laurea magistrale in STATISTICA E DATA SCIENCE , ha i seguenti obiettivi formativi: 
+Obiettivo del corso e' fornire le basi teoriche e pratiche sui modelli di reti ad  apprendimento profondo per l'analisi di dati eterogenei, con particolare  riferimento alla loro classificazione supervisionata e non supervisionata. Le  lezioni comprendono anche l’implementazione di modelli ad apprendimento  profondo. Lo strumento di sviluppo utilizzato e' il MATLAB, e /o Python.

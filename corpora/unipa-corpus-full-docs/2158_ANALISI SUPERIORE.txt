@@ -1,0 +1,2 @@
+Il corso di ANALISI SUPERIORE del corso di Laurea magistrale in MATEMATICA , ha i seguenti obiettivi formativi: 
+Acquisizione di concetti e metodi dell' Analisi non commutativa (Algebre di Banach e C*-algebre) e degli aspetti fondamentali  della Teoria degli Operatori in spazi di Hilbert; sviluppo della capacita' di applicarli in altri ambiti della matematica. Illustrare i concetti fondamentali degli spazi di Hilbert e degli spazi di Banach.

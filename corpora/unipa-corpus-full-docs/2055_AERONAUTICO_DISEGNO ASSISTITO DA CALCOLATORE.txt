@@ -1,0 +1,2 @@
+Il corso di DISEGNO ASSISTITO DA CALCOLATORE del corso di Laurea in INGEGNERIA MECCANICA del curriculum AERONAUTICO, ha i seguenti obiettivi formativi: 
+Lo studente, al termine del corso, avra' conoscenza delle problematiche inerenti  la rappresentazione e la quotatura di elementi singoli o assemblati. Conoscera'  le modalita' di collegamento dei diversi elementi. Lo studente sara' in grado di  realizzare,anche mediante l’impiego del computer, il disegno 2d ed il modello 3d  di elementi singoli o assemblati di cui sapra' interpretare il corretto  funzionamento.

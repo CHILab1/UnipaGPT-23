@@ -1,0 +1,2 @@
+Il corso di STRUTTURE AEROSPAZIALI del corso di Laurea magistrale in INGEGNERIA AEROSPAZIALE , ha i seguenti obiettivi formativi: 
+Obiettivo dell’insegnamento è fornire allo studente le conoscenze e le abilità che  permettono l'analisi strutturale ai fini progettuali delle costruzioni aerospaziali  mediante la modellazione con il metodo degli elementi finiti e la conseguente  valutazione della resistenza statica, della vita a fatica e della resistenza residua  di tali strutture.

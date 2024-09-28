@@ -1,0 +1,2 @@
+Il corso di EMBEDDED SYSTEMS (in inglese) del corso di Laurea magistrale in INGEGNERIA INFORMATICA del curriculum CYBERSICUREZZA, ha i seguenti obiettivi formativi: 
+Al termine del corso lo studente conoscera' i concetti avanzati necessari alla  comprensione della struttura dei sistemi di elaborazione embedded. Avra'  conoscenza approfondita della programmazione di sistema ed embedded.

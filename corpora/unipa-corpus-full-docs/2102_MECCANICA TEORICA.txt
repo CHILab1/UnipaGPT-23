@@ -1,0 +1,2 @@
+Il corso di MECCANICA TEORICA del corso di Laurea in MATEMATICA , ha i seguenti obiettivi formativi: 
+Dopo un’analisi critica dei principi fondanti della Meccanica Classica, l’obiettivo  del corso e' l’introduzione delle diverse formulazioni delle equazioni di moto e  cioe' quella Newtoniana, quella Lagrangiana e quella Hamiltoniana. Ulteriore      obiettivo e' quello di introdurre le tecniche per l’analisi di un sistema meccanico  vincolato e per la derivazione delle soluzioni nei pressi di un equilibrio.

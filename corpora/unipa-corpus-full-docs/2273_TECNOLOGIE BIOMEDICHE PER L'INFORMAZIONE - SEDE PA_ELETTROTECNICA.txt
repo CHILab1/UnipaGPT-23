@@ -1,0 +1,2 @@
+Il corso di ELETTROTECNICA del corso di Laurea in INGEGNERIA BIOMEDICA del curriculum TECNOLOGIE BIOMEDICHE PER L'INFORMAZIONE - SEDE PA, ha i seguenti obiettivi formativi: 
+Sviluppo delle conoscenze e dell’intuito professionale nel campo dell'analisi  circuitale applicata all'ingegneria industriale e nel campo della ICT. Capacita' di risolvere circuiti lineari in qualunque regime e di eseguire bilanci di  potenza e valutazione del rendimento elettrico.

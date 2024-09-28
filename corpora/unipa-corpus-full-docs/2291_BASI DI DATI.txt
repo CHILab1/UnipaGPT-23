@@ -1,0 +1,2 @@
+Il corso di BASI DI DATI del corso di Laurea in INTELLIGENZA ARTIFICIALE , ha i seguenti obiettivi formativi: 
+Si vogliono impartire agli studenti delle nozioni di base per la progettazione e  l’utilizzo dei database. Essendo un corso professionalizzante, lo studente deve  essere messo in grado di progettare e realizzare in maniera autonoma una base  di dati soddisfacendo le richieste di un committente. Deve inoltre essere in  grado di estrarre informazioni dal database mediante interrogazioni SQL.

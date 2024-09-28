@@ -1,0 +1,2 @@
+Il corso di MODELLI MATEMATICI DELL'INGEGNERIA CHIMICA del corso di Laurea in INGEGNERIA CHIMICA E BIOCHIMICA , ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire le principali nozioni relative ai metodi numerici  dell’ingegneria e ai modelli matematici di utilita' per la soluzione di problemi tipici  dell’ingegneria chimica e di processo.

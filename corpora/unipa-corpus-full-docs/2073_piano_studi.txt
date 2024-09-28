@@ -1,0 +1,59 @@
+Anno Accademico 2023/2024
+Laurea in AGROINGEGNERIA
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=541
+---------
+Classe di Laurea in Scienze e tecnologie agrarie e forestali (L-25)
+Durata 3 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Scienze Agrarie, Alimentari e Forestali
+Codice corso 2073
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+01646	BIOLOGIA VEGETALE	DOMINA	8	1° semestre	BIO/03
+04872	MATEMATICA		8	1° semestre	MAT/07
+18692	ELEMENTI DI CHIMICA GENERALE ED ORGANICA	BONSIGNORE	8	1° semestre	CHIM/03
+20692	COMPETENZE LINGUISTICHE IN INGLESE EQUIPARABILI AL LIVELLO B1		4	1° semestre	
+02754	ECONOMIA E POLITICA AGRARIA	SCHIFANI	8	2° semestre	AGR/01
+03245	FISICA	PAGANO	8	2° semestre	FIS/01
+20626	TOPOGRAFIA, CARTOGRAFIA ED ELEMENTI DI CAD	DARDANELLI	8	2° semestre	ICAR/06
+	Attiv. form. a scelta dello studente (consigliate)		6		
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+03774	IDRAULICA AGRARIA	BAGARELLO	8	1° semestre	AGR/08
+12554	COSTRUZIONI RURALI	VALLONE	8	1° semestre	AGR/09
+13351	ALTRE CONOSCENZE UTILI PER L'INSERIMENTO NEL MONDO DEL LAVORO		3	1° semestre	
+15480	BIOCHIMICA AGRARIA E CHIMICA DEL SUOLO	LAUDICINA	8	1° semestre	AGR/13
+01155	AGRONOMIA GENERALE		8	2° semestre	AGR/02
+12498	COLTIVAZIONI ERBACEE	RUISI	8	2° semestre	AGR/02
+18693	ENTOMOLOGIA E ZOOLOGIA AGRARIA	AGRO'	8	2° semestre	AGR/11
+18697	ORTOFLORICOLTURA	MONCADA	8	2° semestre	AGR/04
+	Attiv. form. a scelta dello stud. (consigliate) II		3		
+
+Insegnamenti terzo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+02078	COLTIVAZIONI ARBOREE	SOTTILE	8	1° semestre	AGR/03
+05589	PATOLOGIA VEGETALE	DAVINO	8	1° semestre	AGR/12
+12476	PRODUZIONI ANIMALI	ALABISO	8	1° semestre	AGR/19
+13121	TIROCINI FORMATIVI E DI ORIENTAMENTO		6	1° semestre	
+03102	ESTIMO RURALE	ASCIUTO	8	2° semestre	AGR/01
+05917	PROVA FINALE		3	2° semestre	
+12504	MECCANICA AGRARIA	ORLANDO	8	2° semestre	AGR/09
+15372	FONDAMENTI DI IRRIGAZIONE E DRENAGGIO		8	2° semestre	AGR/08
+	Attiv. for. a scelta dello stud. (consigliate) III		3		
+
+Attiv. form. a scelta dello studente (consigliate)
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+21171	SUSTAINABLE BUSINESS MODELS IN THE AGRI-FOOD SECTOR (in inglese)	GALATI	3	2° semestre	AGR/01
+22467	STATISTICA PER L'AMBIENTE E IL TERRITORIO	BARONE	3	2° semestre	SECS-S/02
+
+Attiv. form. a scelta dello stud. (consigliate) II
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+21174	ANALYSIS OF LAND USE SYSTEMS (in inglese)	SCALENGHE	3	1° semestre	AGR/14
+
+Attiv. for. a scelta dello stud. (consigliate) III
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD
+21173	MACHINES AND PLANTS FOR ENVIRONMENTAL PROTECTION (in inglese)		3	1° semestre	AGR/09
+

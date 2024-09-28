@@ -1,0 +1,2 @@
+Il corso di DATA ANALYSIS (in inglese) del corso di Laurea magistrale in ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING (FULLY ONLINE) del curriculum ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING (LM-27), ha i seguenti obiettivi formativi: 
+Gli obiettivi del corso sono i seguenti: 1) Introdurre i processi stocastici, i modelli lineari dei processi stocastici e  valutarne le proprietà. 2) Fornire le basi della teoria della stima, utilizzando sia approcci parametrici  che bayesiani; 3) Apprendere tecniche di filtraggio ottimo per sistemi stocastici;

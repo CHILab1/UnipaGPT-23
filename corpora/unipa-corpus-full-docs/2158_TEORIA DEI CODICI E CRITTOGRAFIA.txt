@@ -1,0 +1,2 @@
+Il corso di TEORIA DEI CODICI E CRITTOGRAFIA del corso di Laurea magistrale in MATEMATICA , ha i seguenti obiettivi formativi: 
+Sviluppare una conoscenza dei concetti matematici che supportano le discipline  informatiche relative alle telecomunicazioni, quali: Codici lineari, di Reed- Solomon, di Goppa. Crittografia a chiave pubblica su campi di Galois e su curve  ellittiche e iperellittiche: RSA, ElGamal. Firma digitale. Algoritmi crittanalitici      quali Baby step-Giant step, algoritmo rho di Pollard, crivello quadratico.

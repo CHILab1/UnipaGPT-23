@@ -1,0 +1,2 @@
+Il corso di LABORATORIO PYTHON del corso di Laurea in STATISTICA PER L'ANALISI DEI DATI , ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente nozioni base di programmazione in  Python, con un approccio orientato all’analisi statistica. Gli studenti saranno in  grado di scrivere algoritmi di complessità bassa o media per risolvere quesiti o  svolgere specifiche analisi statistiche, utilizzando le funzioni e i pacchetti  appropriati.

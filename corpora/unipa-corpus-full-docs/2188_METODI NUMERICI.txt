@@ -1,0 +1,2 @@
+Il corso di METODI NUMERICI del corso di Laurea in INGEGNERIA CIBERNETICA , ha i seguenti obiettivi formativi: 
+Lo studente conseguira' una solida conoscenza dei principali metodi numerici  utili per la comprensione e modellizzazione di molteplici problemi dell’ingegneria.     Lo studente sara' in grado di argomentare a sostegno del modello impiegato e  degli algoritmi ideati e valutare criticamente la risposta ottenuta dall’utilizzo del  software impiegato.

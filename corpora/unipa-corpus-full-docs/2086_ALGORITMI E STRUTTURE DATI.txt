@@ -1,0 +1,2 @@
+Il corso di ALGORITMI E STRUTTURE DATI del corso di Laurea in INFORMATICA , ha i seguenti obiettivi formativi: 
+Esporre lo studente a tecniche fondamentali di progetto ed analisi di algoritmi. In  particolare, si copre tutto lo spettro delle strutture dati fondamentali e dei  principali paradigmi algoritmici, con cenni  allo studio di complessità   computazionale di problemi intrattabili.  Si fa cenno anche ad aspetti  ingegneristici fondamentali per  l’implementazione  di algoritmi efficienti.

@@ -1,0 +1,2 @@
+Il corso di LABORATORIO FORMULA SAE del corso di Laurea in INGEGNERIA ELETTRICA PER LA E-MOBILITY , ha i seguenti obiettivi formativi: 
+Lo studente al termine del corso avra' conoscenze sulle tecniche CAD e di  simulazione numerica FEM in uso per la progettazione degli autoveicoli.

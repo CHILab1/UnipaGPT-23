@@ -1,0 +1,2 @@
+Il corso di MODELLI STATISTICI LINEARI del corso di Laurea in STATISTICA PER L'ANALISI DEI DATI , ha i seguenti obiettivi formativi: 
+Obiettivi formativi del corso Il corso ha come obiettivo fondamentale di offrire allo studente gli strumenti  fondamentali per la costruzione e l’analisi di modelli statistici di dipendenza e di  relazioni fra piu' variabili utilizzando l’opportuno software statistico. L'attenzione sara' incentrata sui modelli di dipendenza lineare, sulla misura della  dipendenza lineare fra piu' variabili, e sulle estensioni ai modelli lineari  generalizzati

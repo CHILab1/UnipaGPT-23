@@ -1,0 +1,2 @@
+Il corso di LABORATORIO DI BIOELETTRONICA del corso di Laurea in INGEGNERIA BIOMEDICA del curriculum INGEGNERIA BIOMEDICA - SEDE CL, ha i seguenti obiettivi formativi: 
+Conoscenza delle tecniche volte alla risoluzione di un problema attraverso il  progetto e la realizzazione di un circuito elettronico.  Conoscenza degli strumenti di laboratorio indispensabili per la realizzazione e  misura dei prototipi. Conoscenza delle basi sulla programmazione software e conoscenza della  piattaforma Arduino Uno con microcontrollore AtMega328.

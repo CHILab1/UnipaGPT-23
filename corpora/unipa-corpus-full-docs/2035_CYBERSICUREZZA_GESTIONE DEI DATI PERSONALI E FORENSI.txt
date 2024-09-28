@@ -1,0 +1,2 @@
+Il corso di GESTIONE DEI DATI PERSONALI E FORENSI del corso di Laurea magistrale in INGEGNERIA INFORMATICA del curriculum CYBERSICUREZZA, ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente i concetti di base sulle principali  tecniche di gestione degli incidenti di sicurezza informatica, di analisi delle  informazioni personali e dei dati forensi.

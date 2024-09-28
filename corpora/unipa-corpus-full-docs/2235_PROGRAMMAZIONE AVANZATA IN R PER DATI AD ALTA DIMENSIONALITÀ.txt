@@ -1,0 +1,2 @@
+Il corso di PROGRAMMAZIONE AVANZATA IN R PER DATI AD ALTA DIMENSIONALITÀ del corso di Laurea magistrale in STATISTICA E DATA SCIENCE , ha i seguenti obiettivi formativi: 
+Il corso è finalizzato a fornire allo studente le conoscenze dei metodi di base per  l'analisi dei dati ad alta dimensionalità. Enfasi verrà posta sugli algoritmi  derivanti dalla teoria dei test multipli e sugli algoritmi derivanti dalla teoria  dell'inferenza sparsa.

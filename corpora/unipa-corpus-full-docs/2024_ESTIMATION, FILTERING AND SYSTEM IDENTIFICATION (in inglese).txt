@@ -1,0 +1,2 @@
+Il corso di ESTIMATION, FILTERING AND SYSTEM IDENTIFICATION (in inglese) del corso di Laurea magistrale in INGEGNERIA AEROSPAZIALE , ha i seguenti obiettivi formativi: 
+Imparare tecniche di filtraggio ottimo per sistemi stocastici. Imparare a  determinare un modello matematico a partire dai dati sperimentali misurati sul  sistema.

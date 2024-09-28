@@ -1,0 +1,2 @@
+Il corso di FONDAMENTI DI ELETTRONICA del corso di Laurea in INGEGNERIA BIOMEDICA del curriculum BIOMATERIALI PER LA MEDICINA - SEDE PA, ha i seguenti obiettivi formativi: 
+Analisi del sistema elettronico complesso e sua ripartizione in moduli funzionali.  Lo studente apprendera' funzioni e caratteristiche dei vari sottomoduli, con  riferimento ad applicazioni in ambito sia analogico che digitale.

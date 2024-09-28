@@ -1,0 +1,2 @@
+Il corso di SISTEMI OPERATIVI del corso di Laurea in INGEGNERIA DELL'INNOVAZIONE PER LE IMPRESE DIGITALI , ha i seguenti obiettivi formativi: 
+Il corso si propone di fornire allo studente i concetti di base alla realizzazione di  un moderno sistema operativo. In particolare il corso affronta la gestione dei  processi e dei thread, la gestione della memoria con le varie tecniche di  virtualizzazione, la gestione dei dispositivi di I/O e la gestione del file system.

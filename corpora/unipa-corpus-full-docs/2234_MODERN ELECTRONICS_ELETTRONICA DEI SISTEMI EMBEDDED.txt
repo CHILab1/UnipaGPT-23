@@ -1,0 +1,2 @@
+Il corso di ELETTRONICA DEI SISTEMI EMBEDDED del corso di Laurea magistrale in ELECTRONICS ENGINEERING del curriculum MODERN ELECTRONICS, ha i seguenti obiettivi formativi: 
+L'insegnamento si prefigge lo studio e l'analisi dei principali sistemi elettronici  digitali programmabili: microprocessori, microcontrollori di piccolo taglio per  applicazioni embedded. Si introduce lo studente ai metodi ed i linguaggi di  programmazione per sistemi a microcontrollore

@@ -1,0 +1,2 @@
+Il corso di RAPPRESENTAZIONE DELLA CONOSCENZA E RAGIONAMENTO del corso di Laurea in INTELLIGENZA ARTIFICIALE , ha i seguenti obiettivi formativi: 
+L’obiettivo principale del corso e  fornire agli studenti un panorama completo  delle tecniche di rappresentazione della conoscenza e automazione del  ragionamento. Gli studenti conosceranno la teoria, le caratteristiche e i limiti dei  principali modelli di rappresentazione della conoscenza.

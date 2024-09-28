@@ -1,0 +1,47 @@
+Anno Accademico 2023/2024
+Laurea magistrale in MUSICOLOGIA E SCIENZE DELLO SPETTACOLO
+Curriculum: MUSICOLOGIA (LM-65)
+Per maggiori informazioni vai su http://www.unipa.it/struttura.html?id=1561
+---------
+Classe di Laurea magistrale in Musicologia e beni musicali (LM-45)Classe di Laurea magistrale in Scienze dello spettacolo e produzione multimediale (LM-65)
+Durata 2 anni
+Sede PALERMO
+Accesso libero
+Dipartimento di Scienze Umanistiche
+Codice corso 2192
+---------
+Insegnamenti primo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+18403	ORGANIZZAZIONE E PRODUZIONE DELLO SPETTACOLO - CORSO AVANZATO		6	1° semestre	SECS-P/10	Fornire competenze specifiche sull’organizzazione e produzione di eventi  artistici, musicali e spettacolari dal vivo, inserendoli in una riflessione piu' ampia  sulle politiche culturali .
+20691	COMPETENZE LINGUISTICHE IN INGLESE EQUIPARABILI AL LIVELLO B2		6	1° semestre		Apprendimento linguistico secondo CEFR.
+22164	ICONOGRAFIA MUSICALE	TUFANO	6	1° semestre	L-ART/07	L’insegnamento fornisce i presupposti teorici e i principi metodologici  dell’iconografia musicale e introduce allo studio e alla lettura critica delle  immagini a soggetto musicale nell’ambito della cultura figurativa occidentale. Al  termine del corso lo studente sarà in posseso delle competenze necessarie per  analizzare rappresentazioni di varia tipologia riguardanti gli aspetti materiali,  ideali e simbolici della musica.
+22166	STRUMENTI DELLA RICERCA E DELLA PRATICA MUSICALE	TEDESCO	12	1° semestre		L'obiettivo del modulo A è quello di fornire un’introduzione ai metodi e agli strumenti della ricerca negli ambiti della  Musicologia, al fine di rendere gli studenti autonomi e consapevoli nell’ideare ed elaborare un progetto di ricerca e nel  redigere una bibliografia e un testo di taglio scientifico.
+	STRUMENTI DELLA RICERCA	TEDESCO	6		L-ART/07
+	STORIA E TECNOLOGIA DEGLI STRUMENTI MUSICALI		6		L-ART/07
+18424	TEORIE E TECNICHE DELLA RECITAZIONE	SICA	12	2° semestre	L-ART/05
+20418	STORIA E DIDATTICA DEL TEATRO MUSICALE	TEDESCO	9	2° semestre	L-ART/07	Il corso si propone di avviare gli studenti allo studio e alla comprensione del  teatro musicale, focalizzandosi sulla teoria della drammaturgia musicale, e su  alcuni esempi specifici particolarmente importanti, inquadrati nel loro contesto  storico.Una parte del corso è dedicato alla didattica del melodramma in diversi  contesti educativi.
+21089	TEORIE DEL CINEMA C.A.	CERVINI	9	2° semestre	L-ART/06	Il corso intende fornire agli studenti gli strumenti necessari riconoscimento delle  principali prospettive di ricerca e dei relativi autori nell'ambito degli studi teorici  sul cinema, nonche' all'acquisizione della padronanza del linguaggio settoriale.  L'uso delle competenze da acquisire nel campo delle tecniche, dei linguaggi e  delle grammatiche cinematografiche verranno contestualizzate nell'ambito dello  studio degli autori, dei movimenti, delle correnti e delle tendenze della storia del  cinema. Alla fine del corso lo studente avra` appreso le metodologie utili alla lettura e  all'interpretazione di documenti inerenti la disciplina e avra` raggiunto una      formazione teorico-pratica con competenze analitiche di tipo avanzato nel  campo degli studi cinematografici.
+
+Insegnamenti secondo anno
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+14184	TIROCINIO FORMATIVO E DI ORIENTAMENTO		3	1° semestre	
+15836	MUSICA BIZANTINA E DELL'ORIENTE CRISTIANO	GAROFALO	6	1° semestre	L-ART/08	Obiettivo del corso e' illustrare i lineamenti storici, le forme innografiche, i  principali repertori, i fondamenti della notazione della musica bizantina e delle  principali altre tradizioni dell'Oriente Cristiano (canto slavo, siriaco, copto,  armeno, melchita, etc.) al fine di completare la formazione scientifica  musicologica ed etnomusicologica degli studenti. Uno spazio specifico sarà dedicato allo studio etnomusicologico della tradizione  musicale liturgica bizantina delle comunità albanesi della Sicilia (gli Arbëresh).
+05917	PROVA FINALE		15	2° semestre	
+08896	ANTROPOLOGIA DELLA MUSICA	BONANZINGA	6	2° semestre	L-ART/08	Il corso intende offrire un ampio quadro dei temi e dei problemi maturati  nell’ambito dell’etnomusicologia dopo la pubblicazione nel 1964 del testo di Alan  P. Merriam "Antropologia della musica". Il principale obiettivo consiste nel porre  in evidenza i meccanismi secondo cui le pratiche musicali acquistano senso sul  piano simbolico presso  societa' diversamente strutturate: dai gruppi nomadi di  cacciatori-raccoglitori alle societa' complesse e globalizzate della  contemporaneita. Si prestera' quindi attenzione alla morfologia della  performance musicale, nelle sue complesse dinamiche di attuazione- trasmissione e rispetto ai suoi valori funzionali, spesso determinati dalla  interconnessione tra finalita' espressive, ludiche, ergologiche e rituali. Verra'  infine trattato il rapporto tra il “fare musica” secondo le regole della tradizione  orale e le dinamiche identitarie che producono forme di competizione e di  conflitto a livello interpersonale e intercomunitario.
+19727	LETTERATURA TEATRALE IN LINGUA INGLESE	DI MAIO	6	2° semestre	L-LIN/10	L’insegnamento si propone di offrire una conoscenza generale della letteratura  teatrale in lingua inglese dalle origini al presente, attraverso l'analisi testuale di  una selezione ristretta ma significativa di autori e opere (drammi, radiodrammi,  adattamenti teatrali e cinematografici).
+	Gruppo di attiv. form. opzionali		6		
+	Gruppo di attiv. form. opzionali II		6		
+	Attiv. form. a scelta dello studente		12		
+
+Gruppo di attiv. form. opzionali
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+20698	PEDAGOGIA MUSICALE CORSO AVANZATO	MIGNOSI	6	1° semestre	M-PED/01	Conoscenza delle principali teorie metodologie per la progettazione educativa Conoscenza delle caratteristiche del linguaggio sonoro come modalita' per  favorire processi di apprendimento Capacità di elaborare esperienze educative in relazione a "paesaggi sonori" in  una prospettiva ecologica Capacita' di utilizzare il linguaggio sonoro su differenti livelli (creativo,  comunicativo, relazionale, etc.) Capacita' di usare la musica in una prospettiva interculturale Ampliamento delle capacita' osservative Conoscenza della relazione tra la musica ed altri linguaggi espressivi e  comunicativi Conoscenza delle modalita' di funzionamento del gruppo di lavoro e delle sue  modalita' di conduzione Capacita' di progettare attivita' centrate sul linguaggio sonoro Capacita' di valutazione
+22162	MUSICA E POESIA	TUFANO	6	1° semestre	L-ART/07	Conoscenza dei tratti morfologici e delle convenzioni metriche, linguistiche e  stilistiche che caratterizzano il libretto per musica in italiano, con particolare  attenzione al XVIII secolo; conoscenza dei problemi filologici posti dal repertorio  librettistico e delle piu' recenti esperienze ecdotiche in tale ambito.
+03093	ESTETICA MUSICALE	MISURACA	6	2° semestre	L-ART/07	Obiettivo dell'insegnamento e' di mettere in grado di individuare i temi fondamentali della riflessione sulla musica, di coglierne le relazioni con le scelte compositive nei repertori e nelle opere musicali, di acquisire la consapevolezza della relativita' storica e culturale delle teorie musicali, di aprire la mente agli interrogativi e ai problemi che nascono da esperienze culturali e musicali di ampio e profondo respiro.
+03189	FILOLOGIA MUSICALE		6	2° semestre	L-ART/07	Obiettivo del corso di Filologia musicale è fornire gli strumenti tecnici e critici per  la corretta lettura delle fonti musicali antiche (con particolare riferimento a quelle  dei secc. XVI-XVIII) e della loro edizione moderna condotta con criteri scientifici  e moderni.
+
+Gruppo di attiv. form. opzionali II
+Codice materia	Nome materia	Docente	CFU	Periodo	SSD	Obiettivi Formativi
+21451	ESTETICA DELLO SPETTACOLO	DI STEFANO	6	1° semestre	M-FIL/04	In linea con gli obiettivi formativi del Corso di Studi lo studente acquisira' la  conoscenza di alcune delle piu' importanti idee estetiche della tradizione  occidentale e di alcune questioni teoriche basilari nell’estetica contemporanea.  Gli studenti saranno in grado di mettere in relazione le idee estetiche con altre  discipline (arti visive e dello spettacolo, nuovi media, architettura, design) e  saranno in grado di comunicare, oralmente e per iscritto, le informazioni relative  al loro campo di studi, differenziando i registri a seconda se la comunicazione  coinvolge specialisti e non specialisti.
+18405	PSICOLOGIA DELLA PERCEZIONE SONORA	CALI'	6	2° semestre	M-FIL/04	A. Acquisizione di conoscenze su: 1. ricerca scientifica sulla percezione sonora e musicale; 2. fattori di unificazione e regole della grammatica della percezione in cui  tradurre questioni musicologiche, valutare le attese riguardo gli effetti sui fruitori  sia esperti sia ingenui. B. Acquisizione di know how su: 1. selezione informazione rilevante per giudicare adeguatezza di strumenti di  analisi, sintesi e sonorizzazione degli spazi; 2. trasformazione fattori e regole in parametri manipolabili per spiegare e  produrre proprieta' sonore e musicali.
+
