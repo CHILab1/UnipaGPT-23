@@ -5,14 +5,14 @@ Unipa-GPT: Large Language Models for university-oriented QA in Italian
 Please cite our work as follows if you use Unipa-corpus
 
 ```
-@misc{siragusa2024medpix20comprehensivemultimodal,
-      title={MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications}, 
-      author={Irene Siragusa and Salvatore Contino and Massimo La Ciura and Rosario Alicata and Roberto Pirrone},
+@misc{siragusa2024unipagptlargelanguagemodels,
+      title={Unipa-GPT: Large Language Models for university-oriented QA in Italian}, 
+      author={Irene Siragusa and Roberto Pirrone},
       year={2024},
-      eprint={2407.02994},
+      eprint={2407.14246},
       archivePrefix={arXiv},
-      primaryClass={cs.DB},
-      url={https://arxiv.org/abs/2407.02994}, 
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.14246}, 
 }
 ```
 
