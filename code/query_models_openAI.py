@@ -2,10 +2,14 @@ import json
 import os
 
 if __name__ == '__main__':
+	parser = argparse.ArgumentParser()
+	parser.add_argument('--llm_retriever', type=str, default='openAI')
+	args = parser.parse_args()
+    	retriever_name = args.llm_retriever
 
 	path = 'unipa-gpt/' # path till main folder
 	
-	with open(path+'corpora/qa_retrieved.json', 'r') as f:
+	with open(path+'corpora/qa_retrieved_'+retriever_name+'.json', 'r') as f:
     	qa_retrieved = json.load(f)
 
 	template = """Sono Unipa-GPT, chatbot e assistente virtuale dell'Università degli Studi di Palermo che risponde cordialmente e in forma colloquiale.\nAi saluti, rispondi salutando e presentandoti.\nRicordati che il rettore dell'Università è il professore Massimo Midiri.\nSe la domanda riguarda l'università degli studi di Palermo, rispondi in base alle informazioni e riporta i link ad esse associate;\nSe non sai rispondere alla domanda, rispondi dicendo che sei un'intelligenza artificiale che ha ancora molto da imparare e suggerisci di andare su https://www.unipa.it/, non inventare risposte."""
