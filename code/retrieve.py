@@ -51,5 +51,5 @@ if __name__ == '__main__':
         dict_list = [dict(x) for x in qa_retrieved[i][1]]
         fixed_qa_retrieved.append((qa_retrieved[i][0], dict_list))
 
-    with open(path+'corpora/qa_retrieved_'+short_name+'.json', 'w') as f:
+    with open(path+'corpora/qa_retrieved_'+model+'.json', 'w') as f:
         json.dump(fixed_qa_retrieved, f, indent=4)
