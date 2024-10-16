@@ -27,6 +27,9 @@ In **corpora** folder we report:
 
 
 In **code** folder we report:
-  *  _ingest_data.py_ to generate vectordatabase starting from documents' folder
-  *  _query_model.py_ to infer LLM
-  *  _eval.py_ to evaluate generated answers
+  *  _ingest_data_openAI_embeddings.py_ to generate vectordatabase starting from documents' folder with openAI embeddings
+  *  _ingest_data_open.py_ to generate OpenAI's vectordatabase starting from documents' folder with open source embeddings
+  *  _retrieve.py_ to retrieve relevant documents given a question
+  *  _query_models_openAI.py_ to infer via OpenAI's models
+  *  _query_models_open.py_ to infer via open source LLMs
+  *  _evaluate.py_ to evaluate generated answers
