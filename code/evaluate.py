@@ -66,5 +66,5 @@ if __name__ == '__main__':
 		
 		scores.append(scores_dict)
 	
-	with open('/home/isiragusa/unipa-gpt-ofc/code/qa_metrics.json', 'w') as f:
+	with open(path+'qa_metrics.json', 'w') as f:
 		json.dump(scores, f, indent=4)
