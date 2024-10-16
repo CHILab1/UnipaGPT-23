@@ -29,7 +29,7 @@ if __name__ == '__main__':
         'teelinsan/camoscio-7b-llama': 'Camoscio',
         'andreabac3/Fauno-Italian-LLM-7B' : 'Fauno'}
 
-	path = 'unipa-gpt/' 	# paht till main folder
+	path = 'unipa-gpt/' 	# path till main folder
 
     with open(path+'corpora/qa_retrieved.json', 'r') as f:
         fixed_qa_retrieved = json.load(f)
